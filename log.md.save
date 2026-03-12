@@ -17,9 +17,3 @@
 - **Did:** Setup day. WSL Ubuntu 24.04, Node.js, Python, Claude Code, Git+SSH, workspace folders.
 - **Learned:** WSL is a Linux terminal inside Windows. Everything I install there is separate from Windows. Commands follow the pattern: command what-to-do to-what.
 - **Tomorrow:** Finish remaining setup, then start Phase 1.
-
-### 2026-03-12
-- **Did:** Setup day. Anki + Obsidian automatic long term learning system.
-- **Learned:** how to use obsidian, and use scripts within the plugins, and automate them. my first bash alias.
-- **Tomorrow"** try to finish the whole setup and start the antrophic claude code course 
-
