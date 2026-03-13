@@ -2,7 +2,7 @@
 
 ## Phase Tracker
 
-- [ ] Phase 1: The Instrument (Weeks 1-3)
+- [x] Phase 1: The Instrument (Weeks 1-3)
 - [ ] Phase 2: Mental Models (Weeks 3-6)
 - [ ] Phase 3: Systems Architecture (Weeks 5-8)
 - [ ] Phase 4: Metrics & Debugging (Weeks 7-10)
@@ -13,7 +13,7 @@
 
 ## Daily Entries
 
-### $(date +%Y-%m-%d)
+### 2026-03-11
 - **Did:** Setup day. WSL Ubuntu 24.04, Node.js, Python, Claude Code, Git+SSH, workspace folders.
 - **Learned:** WSL is a Linux terminal inside Windows. Everything I install there is separate from Windows. Commands follow the pattern: command what-to-do to-what.
 - **Tomorrow:** Finish remaining setup, then start Phase 1.
@@ -23,3 +23,8 @@
 - **Learned:** how to use obsidian, and use scripts within the plugins, and automate them. my first bash alias.
 - **Tomorrow"** try to finish the whole setup and start the antrophic claude code course 
 
+
+### 2026-03-13
+- **Did:** Setup day. Analyzed Andrew Karpathy perspective on LLM's, personnal programming. 
+- **Learned:** What is a stochastic simulation, the difference between capex and opex. 
+- **Tomorrow** Starting claude code course
