@@ -21,10 +21,15 @@
 ### 2026-03-12
 - **Did:** Setup day. Anki + Obsidian automatic long term learning system.
 - **Learned:** how to use obsidian, and use scripts within the plugins, and automate them. my first bash alias.
-- **Tomorrow"** try to finish the whole setup and start the antrophic claude code course 
+- **Tomorrow:"** try to finish the whole setup and start the antrophic claude code course 
 
 
 ### 2026-03-13
 - **Did:** Setup day. Analyzed Andrew Karpathy perspective on LLM's, personnal programming. 
 - **Learned:** What is a stochastic simulation, the difference between capex and opex. 
-- **Tomorrow** Starting claude code course
+- **Tomorrow:** Starting claude code course
+
+### 2026-03-14
+- **Did:** Completed the first part of the claude code course, settep up leetcode with a learning plan.
+- **Learned:** how works a python environment with jupyter and a notebook and using a custom kernel. 
+- **Tomorrow:** keep going on the claude code course 
