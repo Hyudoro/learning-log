@@ -33,3 +33,8 @@
 - **Did:** Completed the first part of the claude code course, settep up leetcode with a learning plan.
 - **Learned:** how works a python environment with jupyter and a notebook and using a custom kernel. 
 - **Tomorrow:** keep going on the claude code course 
+
+### 2026-03-15
+- **Did:** Had fun with dev environment, tmux Alacritty and Emacs 
+-**Learned:** The tmux server-client system based 
+-**Tomorrow:** Second part of the claude course 
