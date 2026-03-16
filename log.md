@@ -30,11 +30,17 @@
 - **Tomorrow:** Starting claude code course
 
 ### 2026-03-14
-- **Did:** Completed the first part of the claude code course, settep up leetcode with a learning plan.
+- **Did:** Completed the first part of the anthropic course, settep up leetcode with a learning plan.
 - **Learned:** how works a python environment with jupyter and a notebook and using a custom kernel. 
-- **Tomorrow:** keep going on the claude code course 
+- **Tomorrow:** keep going on the anthropic course 
 
 ### 2026-03-15
 - **Did:** Had fun with dev environment, tmux Alacritty and Emacs 
--**Learned:** The tmux server-client system based 
--**Tomorrow:** Second part of the claude course 
+- **Learned:** The tmux server-client system based 
+- **Tomorrow:** Second part of the claude course 
+
+### 2026-03-16
+- **Did:** 2nd part of the Anthropic course
+- **Learned:** avoid mistakes when implementing the API dialogue
+- **Learned:** Finish 2nd part and start the third 
+
