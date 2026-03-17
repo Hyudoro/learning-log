@@ -42,5 +42,10 @@
 ### 2026-03-16
 - **Did:** 2nd part of the Anthropic course
 - **Learned:** avoid mistakes when implementing the API dialogue
-- **Learned:** Finish 2nd part and start the third 
+- **Tomorrow:** Finish 2nd part and start the third 
 
+
+### 2026-03-17
+- **Did:** Finished second part of the Antropic course, chatbot script 
+- **Learned:** how a chatbot works and how to use prompt tricks
+- **Tomorrow:** Start part 3. 
