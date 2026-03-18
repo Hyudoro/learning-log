@@ -49,3 +49,8 @@
 - **Did:** Finished second part of the Antropic course, chatbot script 
 - **Learned:** how a chatbot works and how to use prompt tricks
 - **Tomorrow:** Start part 3. 
+
+### 2026-03-18
+- **Did** Finised the third part of the Antropic course.
+- **Learned:** how to know which model to use cost/speed/capability.
+- **Tomorrow:** Start part 4.
