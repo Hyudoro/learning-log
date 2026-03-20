@@ -59,3 +59,8 @@
 - **Did:** Finished part 4 of the Anthropic course.
 - **Learned:** how to use temperature, stop sequence and max tokens to optimize the output of a request.
 - **Tomorrow:** start part 5.
+
+### 2026-03-20
+- **Did:** almost finished part 5 of the Anthropic course
+- **Learned:** how streams work in Request context, ttft tps
+- **Tomorrow:** finish part 5 and start part 6 of the Anthropic course
