@@ -69,3 +69,8 @@
 - **Did:** Deep dive into streams and data dispatch.(part 5).
 - **Learned:** How to effectively use delta's types in apis.
 - **Tomorrow:** Start part 6 of the Anthropic course.
+
+### 2026-03-22
+- **Did:** Finished part 5, created a little asynchronous chatbot using streams.
+- **Learned:** the async basics in python (need to deep dive on my own)
+- **Tomorrow:** Start part 6 of the Anthropic course.
