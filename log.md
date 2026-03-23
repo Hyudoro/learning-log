@@ -74,3 +74,8 @@
 - **Did:** Finished part 5, created a little asynchronous chatbot using streams.
 - **Learned:** the async basics in python (need to deep dive on my own)
 - **Tomorrow:** Start part 6 of the Anthropic course.
+
+### 2026-03-23
+- **Did:** Started part 6, created a personal funny project (see on my github)
+- **Learned:** how to import images within the api, and the pipeline from the file path to the 64encoding.
+- **Tomorrow:**Continue part 6 and "arrange a java project"
