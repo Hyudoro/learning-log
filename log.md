@@ -79,3 +79,13 @@
 - **Did:** Started part 6, created a personal funny project (see on my github)
 - **Learned:** how to import images within the api, and the pipeline from the file path to the 64encoding.
 - **Tomorrow:**Continue part 6 and "arrange a java project"
+
+### 2026-03-24
+- **Did:** Continued part 6 of the antrhopic course, learning how the kill ring works in emacs, sended my java oc project number 5.
+- **Learned:** how to use efficiently emacs kill ring, usefull for curl commands testing
+- **Tomorrow:** Continue part 6 of the anthropic course, keep learning emacs env/wsl/linux.
+
+### 2026-03-25
+- **Did:** Continued part 6, dive into encodings, mime type handling.
+- **Learned:** retrieving data from an image and using it.
+- **Tomorrow:** Finish part 6 (and start a project according to it)
