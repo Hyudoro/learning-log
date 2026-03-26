@@ -89,3 +89,8 @@
 - **Did:** Continued part 6, dive into encodings, mime type handling.
 - **Learned:** retrieving data from an image and using it.
 - **Tomorrow:** Finish part 6 (and start a project according to it)
+
+### 2026-03-26
+- **Did:** Continued part 6, finished one big java project
+- **Learned:** using json to retrieve data from articles and images (basically the premises of scraping..)
+- **Tomorrow:**finish part 6
