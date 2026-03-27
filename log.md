@@ -94,3 +94,8 @@
 - **Did:** Continued part 6, finished one big java project
 - **Learned:** using json to retrieve data from articles and images (basically the premises of scraping..)
 - **Tomorrow:**finish part 6
+
+### 2026-03-27
+- **Did:** Finished part 6
+- **Learned:** how to create a summerizer, processing images and articles.
+- **Tomorrow:** Before starting 2nd section of the anthropic course, starting a project   in python, CLI tool triggering a screenshot of any webpage, sending to claude the image and getting back a structured JSON analysis of the UI. Deploy this with docker as a cli tool.
