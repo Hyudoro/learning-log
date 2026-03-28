@@ -78,24 +78,29 @@
 ### 2026-03-23
 - **Did:** Started part 6, created a personal funny project (see on my github)
 - **Learned:** how to import images within the api, and the pipeline from the file path to the 64encoding.
-- **Tomorrow:**Continue part 6 and "arrange a java project"
+- **Tomorrow:**Continue part 6 and "arrange a java project".
 
 ### 2026-03-24
 - **Did:** Continued part 6 of the antrhopic course, learning how the kill ring works in emacs, sended my java oc project number 5.
-- **Learned:** how to use efficiently emacs kill ring, usefull for curl commands testing
+- **Learned:** how to use efficiently emacs kill ring, usefull for curl commands testing.
 - **Tomorrow:** Continue part 6 of the anthropic course, keep learning emacs env/wsl/linux.
 
 ### 2026-03-25
 - **Did:** Continued part 6, dive into encodings, mime type handling.
 - **Learned:** retrieving data from an image and using it.
-- **Tomorrow:** Finish part 6 (and start a project according to it)
+- **Tomorrow:** Finish part 6 (and start a project according to it).
 
 ### 2026-03-26
-- **Did:** Continued part 6, finished one big java project
-- **Learned:** using json to retrieve data from articles and images (basically the premises of scraping..)
+- **Did:** Continued part 6, finished one big java project.
+- **Learned:** using json to retrieve data from articles and images (basically the premises of scraping..).
 - **Tomorrow:**finish part 6
 
 ### 2026-03-27
-- **Did:** Finished part 6
+- **Did:** Finished part 6.
 - **Learned:** how to create a summerizer, processing images and articles.
-- **Tomorrow:** Before starting 2nd section of the anthropic course, starting a project   in python, CLI tool triggering a screenshot of any webpage, sending to claude the image and getting back a structured JSON analysis of the UI. Deploy this with docker as a cli tool.
+- **Tomorrow:** Before starting 2nd section of the anthropic course, starting a project in python, CLI tool triggering a screenshot of any webpage, sending to claude the image and getting back a structured JSON analysis of the UI. Deploy this with docker as a cli tool.
+
+### 2026-03-28 (Sat)
+- **Did:** Started the project.
+- **Learned:** how to setup the python basic environment and use claude.md and makefile.
+- **Tomorrow:** continue the project, some cool stuff in c.
