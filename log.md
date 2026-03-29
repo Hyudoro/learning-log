@@ -104,3 +104,8 @@
 - **Did:** Started the project.
 - **Learned:** how to setup the python basic environment and use claude.md and makefile.
 - **Tomorrow:** continue the project, some cool stuff in c.
+
+### 2026-03-29 (Sun)
+- **Did:** Continued my project.
+- **Learned:** how to use magit, and elisp auto-completion in a terminal emacs based.
+- **Tomorrow:** Continue my first project.
