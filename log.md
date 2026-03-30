@@ -109,3 +109,8 @@
 - **Did:** Continued my project.
 - **Learned:** how to use magit, and elisp auto-completion in a terminal emacs based.
 - **Tomorrow:** Continue my first project.
+
+### 2026-03-30 (Mon)
+- **Did:** Started java project 6 OC.
+- **Learned:** how to create and launch a docker image and acces it to use a Postgress client.
+- **Tomorrow:** Continue the screen-shot analyzer project and the Java project 6 OC.
