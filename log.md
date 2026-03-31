@@ -114,3 +114,8 @@
 - **Did:** Started java project 6 OC.
 - **Learned:** how to create and launch a docker image and acces it to use a Postgress client.
 - **Tomorrow:** Continue the screen-shot analyzer project and the Java project 6 OC.
+
+### 2026-03-31 (Tue)
+- **Did:** finished the mld, currently writing the DDL script of the java project 6 OC.
+- **Learned:** using scripts to be able to rollback while in dev env.
+- **Tomorrow:** Continue the screen-shot analyzer project and the Java project 6 OC.
