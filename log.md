@@ -119,3 +119,8 @@
 - **Did:** finished the mld, currently writing the DDL script of the java project 6 OC.
 - **Learned:** using scripts to be able to rollback while in dev env.
 - **Tomorrow:** Continue the screen-shot analyzer project and the Java project 6 OC.
+
+### 2026-04-01 (Wed)
+- **Did:** DDL finished.
+- **Learned:** how to add constraints, index, and PostGres vocabulary.
+- **Tomorrow:** Seed the DDL and start implementing the database.
