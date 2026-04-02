@@ -124,3 +124,8 @@
 - **Did:** DDL finished.
 - **Learned:** how to add constraints, index, and PostGres vocabulary.
 - **Tomorrow:** Seed the DDL and start implementing the database.
+
+### 2026-04-02 (Thu)
+- **Did:** Java env setup on emacs
+- **Learned:** using eglot, a hook, the server language (Jdtl's)
+- **Tomorrow:** Finish the java env setup.
