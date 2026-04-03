@@ -129,3 +129,8 @@
 - **Did:** Java env setup on emacs
 - **Learned:** using eglot, a hook, the server language (Jdtl's)
 - **Tomorrow:** Finish the java env setup.
+
+### 2026-04-03 (Fri)
+- **Did:** Almost finished setup with java.
+- **Learned:** Using magit and some postgres commands.
+- **Tomorrow:** Try to finish the setup and start the DAL for the project.
