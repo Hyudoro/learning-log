@@ -134,3 +134,8 @@
 - **Did:** Almost finished setup with java.
 - **Learned:** Using magit and some postgres commands.
 - **Tomorrow:** Try to finish the setup and start the DAL for the project.
+
+### 2026-04-04 (Sat)
+- **Did:** Finished the starting setup, started the DAL layer for the hibernate ORM.
+- **Learned:** the logic of representing data as java objects and its trade-offs.
+- **Tomorrow:** Continue the DAL layer of the project 6.
