@@ -139,3 +139,8 @@
 - **Did:** Finished the starting setup, started the DAL layer for the hibernate ORM.
 - **Learned:** the logic of representing data as java objects and its trade-offs.
 - **Tomorrow:** Continue the DAL layer of the project 6.
+
+### 2026-04-05 (Sun)
+- **Did:** Working on JPA's entities.
+- **Learned:** Annotations and how Hibernate handles objects for persisting.
+- **Tomorrow:** keep working on JPA's entities.
