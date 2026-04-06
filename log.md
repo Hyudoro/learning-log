@@ -144,3 +144,8 @@
 - **Did:** Working on JPA's entities.
 - **Learned:** Annotations and how Hibernate handles objects for persisting.
 - **Tomorrow:** keep working on JPA's entities.
+
+### 2026-04-06 (Mon)
+- **Did:** Working on JPA's entities still.
+- **Learned:** How an embedded class identifier works.
+- **Tomorrow:**  keep working on JPA's entities.
