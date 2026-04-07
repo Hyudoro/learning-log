@@ -149,3 +149,8 @@
 - **Did:** Working on JPA's entities still.
 - **Learned:** How an embedded class identifier works.
 - **Tomorrow:**  keep working on JPA's entities.
+
+### 2026-04-07 (Tue)
+- **Did:** Finished JpA's entities starting working on repositories.
+- **Learned:** how hibernate handles objects and the database at the same time.
+- **Tomorrow:** keep working on the repositories.
