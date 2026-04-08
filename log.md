@@ -154,3 +154,8 @@
 - **Did:** Finished JpA's entities starting working on repositories.
 - **Learned:** how hibernate handles objects and the database at the same time.
 - **Tomorrow:** keep working on the repositories.
+
+### 2026-04-08 (Wed)
+- **Did:** worked on the repositories.
+- **Learned:** started using JPQL.
+- **Tomorrow:** Keep working on the repositories.
