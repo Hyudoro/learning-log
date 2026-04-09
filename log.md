@@ -159,3 +159,8 @@
 - **Did:** worked on the repositories.
 - **Learned:** started using JPQL.
 - **Tomorrow:** Keep working on the repositories.
+
+### 2026-04-09 (Thu)
+- **Did:** finished the repositories. Started using Spring security.
+- **Learned:** how the 3 Spring security layers work. (the fundamentals)
+- **Tomorrow:** Keep working on Spring security within my project.
