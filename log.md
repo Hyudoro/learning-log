@@ -161,6 +161,11 @@
 - **Tomorrow:** Keep working on the repositories.
 
 ### 2026-04-09 (Thu)
-- **Did:** finished the repositories. Started using Spring security.
-- **Learned:** how the 3 Spring security layers work. (the fundamentals)
+- **Did:** Finished the repositories. Started using Spring security.
+- **Learned:** How the 3 Spring security layers work. (the fundamentals)
+- **Tomorrow:** Keep working on Spring security within my project.
+
+### 2026-04-10 (Fri)
+- **Did:** Worked on Spring security.
+- **Learned:** JWT is becoming less and less used, he prioritize session variable.
 - **Tomorrow:** Keep working on Spring security within my project.
