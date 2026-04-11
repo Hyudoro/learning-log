@@ -167,5 +167,10 @@
 
 ### 2026-04-10 (Fri)
 - **Did:** Worked on Spring security.
-- **Learned:** JWT is becoming less and less used, he prioritize session variable.
+- **Learned:** JWT is becoming less and less used, we prioritize session variable.
 - **Tomorrow:** Keep working on Spring security within my project.
+
+### 2026-04-11 (Sat)
+- **Did:** Documenting myself to switch from WS2 to Arch linux.
+- **Learned:** A few things about Network time protocol, and mounting system.
+- **Tomorrow:** Contuinue to document myself, and keep working on Spring security.
