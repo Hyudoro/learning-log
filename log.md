@@ -174,3 +174,8 @@
 - **Did:** Documenting myself to switch from WS2 to Arch linux.
 - **Learned:** A few things about Network time protocol, and mounting system.
 - **Tomorrow:** Contuinue to document myself, and keep working on Spring security.
+
+### 2026-04-12 (Sun)
+- **Did:** Still documenting myself to switch from WSL2  to Arch linux.
+- **Learned:** How flashing and checking the signature of an ISO works
+- **Tomorrow:** Continue to document myself, and keep working on Spring security.
