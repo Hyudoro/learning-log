@@ -179,3 +179,8 @@
 - **Did:** Still documenting myself to switch from WSL2  to Arch linux.
 - **Learned:** How flashing and checking the signature of an ISO works
 - **Tomorrow:** Continue to document myself, and keep working on Spring security.
+
+### 2026-04-13 (Mon)
+- **Did:** Started implementing the registration service.
+- **Learned:** We can use a water bottle filter as as an analogy of a DelegatingFilterProxy.
+- **Tomorrow:** keep implementing the registration service.
