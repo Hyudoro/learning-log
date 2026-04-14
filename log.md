@@ -184,3 +184,8 @@
 - **Did:** Started implementing the registration service.
 - **Learned:** We can use a water bottle filter as as an analogy of a DelegatingFilterProxy.
 - **Tomorrow:** keep implementing the registration service.
+
+### 2026-04-14 (Tue)
+- **Did:** Still implementing the registration service.
+- **Learned:** learned about linux overlayfs.
+- **Tomorrow:** Try to finish the registration service.
