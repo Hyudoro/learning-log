@@ -189,3 +189,8 @@
 - **Did:** Still implementing the registration service.
 - **Learned:** learned about linux overlayfs.
 - **Tomorrow:** Try to finish the registration service.
+
+### 2026-04-15 (Wed)
+- **Did:** Finished the registration service logic impl.
+- **Learned:** En password encoding works within Spring security.
+- **Tomorrow:** Start the logging service logic.
