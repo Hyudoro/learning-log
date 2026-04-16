@@ -194,3 +194,8 @@
 - **Did:** Finished the registration service logic impl.
 - **Learned:** En password encoding works within Spring security.
 - **Tomorrow:** Start the logging service logic.
+
+### 2026-04-16 (Thu)
+- **Did:** Connected the controller to the registration and fixed a few bugs.
+- **Learned:** What CORS is. And how to add Prepersit behavior on entitys.
+- **Tomorrow:** Start the logging service logic.
