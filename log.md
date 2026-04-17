@@ -199,3 +199,8 @@
 - **Did:** Connected the controller to the registration and fixed a few bugs.
 - **Learned:** What CORS is. And how to add Prepersit behavior on entitys.
 - **Tomorrow:** Start the logging service logic.
+
+### 2026-04-17 (Fri)
+- **Did:** Finished the logging service logic impl.
+- **Learned:** How a session-based auth actually works.
+- **Tomorrow:** Start the logout service logic.
