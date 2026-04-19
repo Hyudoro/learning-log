@@ -209,3 +209,8 @@
 - **Did:** finished the logout service logic.
 - **Learned:** how logout works under the hood, and how its handled via tomcat.
 - **Tomorrow:** Start the Exception handling process (no idea what its named yet).
+
+### 2026-04-19 (Sun)
+- **Did:** day off, started to think about the Exception handling process.
+- **Learned:** how to properly handle a throw.
+- **Tomorrow:** Keep going on Exception handling.
