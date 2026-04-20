@@ -214,3 +214,8 @@
 - **Did:** day off, started to think about the Exception handling process.
 - **Learned:** how to properly handle a throw.
 - **Tomorrow:** Keep going on Exception handling.
+
+### 2026-04-20 (Mon)
+- **Did:** Finished the Exception handling.
+- **Learned:** Using a GlobalExceptionHandler.
+- **Tomorrow:** Start the connections endpoint.
