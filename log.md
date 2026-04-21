@@ -219,3 +219,8 @@
 - **Did:** Finished the Exception handling.
 - **Learned:** Using a GlobalExceptionHandler.
 - **Tomorrow:** Start the connections endpoint.
+
+### 2026-04-21 (Tue)
+- **Did:** Finished the connections endpoint.
+- **Learned:** Respecting the DRY principle, and how to properly send an Exception body.
+- **Tomorrow:** Start the transactions endpoint.
