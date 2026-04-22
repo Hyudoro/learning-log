@@ -224,3 +224,8 @@
 - **Did:** Finished the connections endpoint.
 - **Learned:** Respecting the DRY principle, and how to properly send an Exception body.
 - **Tomorrow:** Start the transactions endpoint.
+
+### 2026-04-22 (Wed)
+- **Did:** Fixed a few problem with the connection endpoint.
+- **Learned:** how to use 2>&1 | grep '' to properly filter stdout.
+- **Tomorrow:** add a endpoint before starting with transactions.
