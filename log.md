@@ -229,3 +229,8 @@
 - **Did:** Fixed a few problem with the connection endpoint.
 - **Learned:** how to use 2>&1 | grep '' to properly filter stdout.
 - **Tomorrow:** add a endpoint before starting with transactions.
+
+### 2026-04-23 (Thu)
+- **Did:** Added the GET connection endpoint and almost finished transactions.
+- **Learned:** Using BigDecimals, and how updating works with the transactionnal annotation.
+- **Tomorrow:** finish the transaction endpoint.
