@@ -234,3 +234,8 @@
 - **Did:** Added the GET connection endpoint and almost finished transactions.
 - **Learned:** Using BigDecimals, and how updating works with the transactionnal annotation.
 - **Tomorrow:** finish the transaction endpoint.
+
+### 2026-04-24 (Fri)
+- **Did:** finished the endpoint transactions.
+- **Learned:** implementing a spring data projection interface to avoid the N+1 request problem.
+- **Tomorrow:** start the profil endpoint.
