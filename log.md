@@ -238,4 +238,9 @@
 ### 2026-04-24 (Fri)
 - **Did:** finished the endpoint transactions.
 - **Learned:** implementing a spring data projection interface to avoid the N+1 request problem.
-- **Tomorrow:** start the profil endpoint.
+- **Tomorrow:** start the profile endpoint.
+
+### 2026-04-25 (Sat)
+- **Did:** almost finished the profile enpoint.
+- **Learned:** Using a jpql constructor when dealing with dto facing the n+1 request problem.
+- **Tomorrow:** finish the profile endpoint and start the UI..
