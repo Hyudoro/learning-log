@@ -244,3 +244,8 @@
 - **Did:** almost finished the profile enpoint.
 - **Learned:** Using a jpql constructor when dealing with dto facing the n+1 request problem.
 - **Tomorrow:** finish the profile endpoint and start the UI..
+
+### 2026-04-26 (Sun)
+- **Did:** day-off, finished the profile endpoint and tested everything, (bypassed windows 7 password via on an old laptop w sticky keys and arch usb flash drive)
+- **Learned:** how to start mounting drivers.
+- **Tomorrow:** Start the ui...
