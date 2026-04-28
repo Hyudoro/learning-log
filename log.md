@@ -249,3 +249,8 @@
 - **Did:** day-off, finished the profile endpoint and tested everything, (bypassed windows 7 password via on an old laptop w sticky keys and arch usb flash drive)
 - **Learned:** how to start mounting drivers.
 - **Tomorrow:** Start the ui...
+
+### 2026-04-28 (Tue)
+- **Did:** Started the UI with login and transfer pages.
+- **Learned:** how thymeleaf works under the hood.
+- **Tomorrow:** continue the ui.
