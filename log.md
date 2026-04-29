@@ -254,3 +254,8 @@
 - **Did:** Started the UI with login and transfer pages.
 - **Learned:** how thymeleaf works under the hood.
 - **Tomorrow:** continue the ui.
+
+### 2026-04-29 (Wed)
+- **Did:** finished the basic transfer endpoint (I need to adapt the api to MVC so yeah, no ui for now)
+- **Learned:** how to handles error with MVC via BindingResult, and how to use Redirect attribute.
+- **Tomorrow:** Auth controller and its enpoints.
