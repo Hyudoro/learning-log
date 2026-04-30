@@ -259,3 +259,8 @@
 - **Did:** finished the basic transfer endpoint (I need to adapt the api to MVC so yeah, no ui for now)
 - **Learned:** how to handles error with MVC via BindingResult, and how to use Redirect attribute.
 - **Tomorrow:** Auth controller and its enpoints.
+
+### 2026-04-30 (Thu)
+- **Did:** finished the Auth controller and its enpoint, connection endpoint and started profile endpoint.
+- **Learned:** not signifying things.
+- **Tomorrow:** Finished the profile endpoitn.
