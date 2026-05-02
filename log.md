@@ -263,4 +263,9 @@
 ### 2026-04-30 (Thu)
 - **Did:** finished the Auth controller and its enpoint, connection endpoint and started profile endpoint.
 - **Learned:** not signifying things.
-- **Tomorrow:** Finished the profile endpoitn.
+- **Tomorrow:** Finished the profile endpoint.
+
+### 2026-05-02 (Sat)
+- **Did:** Finished the profile endpoint.
+- **Learned:** how to create flags with model and use thymeleaf to handle the navbar.
+- **Tomorrow:** Start the UI...
