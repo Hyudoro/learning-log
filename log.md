@@ -269,3 +269,8 @@
 - **Did:** Finished the profile endpoint.
 - **Learned:** how to create flags with model and use thymeleaf to handle the navbar.
 - **Tomorrow:** Start the UI...
+
+### 2026-05-03 (Sun)
+- **Did:** Day off, tinkered a bit with emacs, a script in Elisp for quick pages look ups.
+- **Learned:** My first real script I use while coding.
+- **Tomorrow:** Start the UI..
