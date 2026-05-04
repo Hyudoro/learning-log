@@ -274,3 +274,8 @@
 - **Did:** Day off, tinkered a bit with emacs, a script in Elisp for quick pages look ups.
 - **Learned:** My first real script I use while coding.
 - **Tomorrow:** Start the UI..
+
+### 2026-05-04 (Mon)
+- **Did:** Finished the Profile UI (have to do something quick tho)
+- **Learned:** using model variables to be able to use thymeleaf effectively.
+- **Tomorrow:** Start the connections page ui.
