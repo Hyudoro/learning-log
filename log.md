@@ -279,3 +279,8 @@
 - **Did:** Finished the Profile UI (have to do something quick tho)
 - **Learned:** using model variables to be able to use thymeleaf effectively.
 - **Tomorrow:** Start the connections page ui.
+
+### 2026-05-05 (Tue)
+- **Did:** Finished almost every UI pages.
+- **Learned:** how a debugger works with a text editor such as emacs.(need to keep going)
+- **Tomorrow:** (deep dive into emacs dubegger with java)
