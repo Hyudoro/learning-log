@@ -283,4 +283,9 @@
 ### 2026-05-05 (Tue)
 - **Did:** Finished almost every UI pages.
 - **Learned:** how a debugger works with a text editor such as emacs.(need to keep going)
-- **Tomorrow:** (deep dive into emacs dubegger with java)
+- **Tomorrow:** (deep dive into emacs debugger with java)
+
+### 2026-05-06 (Wed)
+- **Did:** reading about debugger in java.
+- **Learned:** how its works, between DAP, dape, java-debug, jdwp agent and the jvm.
+- **Tomorrow:** continue learning about how does a debugger works
