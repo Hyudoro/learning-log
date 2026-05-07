@@ -289,3 +289,8 @@
 - **Did:** reading about debugger in java.
 - **Learned:** how its works, between DAP, dape, java-debug, jdwp agent and the jvm.
 - **Tomorrow:** continue learning about how does a debugger works
+
+### 2026-05-07 (Thu)
+- **Did:** almost finished installing the whole debugging pipeline.
+- **Learned:** how it actually works with JSON I/O betwen the client (DAP/emacs) to the adapter to the wire protocol to the jvm.
+- **Tomorrow:** continue learning and finishing installing the debugger.
