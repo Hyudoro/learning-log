@@ -294,3 +294,8 @@
 - **Did:** almost finished installing the whole debugging pipeline.
 - **Learned:** how it actually works with JSON I/O betwen the client (DAP/emacs) to the adapter to the wire protocol to the jvm.
 - **Tomorrow:** continue learning and finishing installing the debugger.
+
+### 2026-05-08 (Fri)
+- **Did:** Fixed a few things in the java project, and refactoring the update endpoint (which is really hard btw)
+- **Learned:** Learned about predicate, multi status..
+- **Tomorrow:** try to actually implement this enpdoint...
