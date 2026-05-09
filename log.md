@@ -299,3 +299,8 @@
 - **Did:** Fixed a few things in the java project, and refactoring the update endpoint (which is really hard btw)
 - **Learned:** Learned about predicate, multi status..
 - **Tomorrow:** try to actually implement this enpdoint...
+
+### 2026-05-09 (Sat)
+- **Did:** implemented the update endpoint.
+- **Learned:** regex basics to check a password valitidy.
+- **Tomorrow:** try to finish this endpoint.
