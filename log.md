@@ -304,3 +304,8 @@
 - **Did:** implemented the update endpoint.
 - **Learned:** regex basics to check a password valitidy.
 - **Tomorrow:** try to finish this endpoint.
+
+### 2026-05-10 (Sun)
+- **Did:** finished the update enpoint.
+- **Learned:** using an orchestrator for multiple layers checks.
+- **Tomorrow:** adding tests to the app.
