@@ -309,3 +309,9 @@
 - **Did:** finished the update enpoint.
 - **Learned:** using an orchestrator for multiple layers checks.
 - **Tomorrow:** adding tests to the app.
+
+### 2026-05-12 (Tue)
+- **Did:** implementing a references lookup script in emacs elisp.
+- **Learned:** how provite and require works, and beginning fo the syntax.
+- **Tomorrow:** finish this (for my own coding workflow) and adding tests
+to the java app.
