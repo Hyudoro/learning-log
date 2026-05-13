@@ -315,3 +315,9 @@
 - **Learned:** how provite and require works, and beginning fo the syntax.
 - **Tomorrow:** finish this (for my own coding workflow) and adding tests
 to the java app.
+
+### 2026-05-13 (Wed)
+- **Did:** finished my references lookup script in elisp.
+- **Learned:** displaying buffers, calling functions, use cempleting-read and
+a bunch of other stuff.
+- **Tomorrow:** focus more on the java app (tests).
