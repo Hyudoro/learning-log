@@ -321,3 +321,8 @@ to the java app.
 - **Learned:** displaying buffers, calling functions, use cempleting-read and
 a bunch of other stuff.
 - **Tomorrow:** focus more on the java app (tests).
+
+### 2026-05-14 (Thu)
+- **Did:** finished the unit tests and integration tests.
+- **Learned:** how to work with TestContainers, and absacract classes.
+- **Tomorrow:** probably emacs tooling, few hobby things, and check the java project
