@@ -326,3 +326,8 @@ a bunch of other stuff.
 - **Did:** finished the unit tests and integration tests.
 - **Learned:** how to work with TestContainers, and absacract classes.
 - **Tomorrow:** probably emacs tooling, few hobby things, and check the java project
+
+### 2026-05-16 (Sat)
+- **Did:** finished the debugger pipeline for java.
+- **Learned:** how to use a custom java adapter between the dape client and the jdwp agent for the jvm.
+- **Tomorrow:** Emacs tooling and hobby pragramming.
