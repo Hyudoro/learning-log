@@ -331,3 +331,8 @@ a bunch of other stuff.
 - **Did:** finished the debugger pipeline for java.
 - **Learned:** how to use a custom java adapter between the dape client and the jdwp agent for the jvm.
 - **Tomorrow:** Emacs tooling and hobby pragramming.
+
+### 2026-05-17 (Sun)
+- **Did:** emacs tooling, working on a Levenshtein algorithm for string matching with typo tolerance.
+- **Learned:** a few emacs packages and eval checking + multicursor use.
+- **Tomorrow:** java stuff
