@@ -336,3 +336,8 @@ a bunch of other stuff.
 - **Did:** emacs tooling, working on a Levenshtein algorithm for string matching with typo tolerance.
 - **Learned:** a few emacs packages and eval checking + multicursor use.
 - **Tomorrow:** java stuff
+
+### 2026-05-18 (Mon)
+- **Did:** created on a Damerau-Levenshtein distance script in Emacs.
+- **Learned:** Using matrix transposition
+- **Tomorrow:** add java documentation to my java app.
