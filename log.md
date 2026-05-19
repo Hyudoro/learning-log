@@ -338,6 +338,11 @@ a bunch of other stuff.
 - **Tomorrow:** java stuff
 
 ### 2026-05-18 (Mon)
-- **Did:** created on a Damerau-Levenshtein distance script in Emacs.
+- **Did:** created a Damerau-Levenshtein distance script in Emacs.
 - **Learned:** Using matrix transposition
 - **Tomorrow:** add java documentation to my java app.
+
+### 2026-05-19 (Tue)
+- **Did:** finished the main algorithm implementation of the Damerau-Levenshtein script.
+- **Learned:** many Elisp new concepts.
+- **Tomorrow:** I have to do this java doc...
