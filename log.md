@@ -346,3 +346,8 @@ a bunch of other stuff.
 - **Did:** finished the main algorithm implementation of the Damerau-Levenshtein script.
 - **Learned:** many Elisp new concepts.
 - **Tomorrow:** I have to do this java doc...
+
+### 2026-05-20 (Wed)
+- **Did:** finished the java doc,finished the dl-completion stype and made it working for myself.
+- **Learned:** still many Elisp new concepts (Learning Lisp/commonLisp indirectly)
+- **Tomorrow:** Java powerpoint...
