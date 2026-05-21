@@ -348,6 +348,11 @@ a bunch of other stuff.
 - **Tomorrow:** I have to do this java doc...
 
 ### 2026-05-20 (Wed)
-- **Did:** finished the java doc,finished the dl-completion stype and made it working for myself.
+- **Did:** almost finished the java doc,finished the dl-completion stype and made it working for myself.
 - **Learned:** still many Elisp new concepts (Learning Lisp/commonLisp indirectly)
 - **Tomorrow:** Java powerpoint...
+
+### 2026-05-21 (Thu)
+- **Did:** finished the java doc, + a few emacs tooling.
+- **Learned:** not much today.
+- **Tomorrow:** Java powerpoint priority.
