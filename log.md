@@ -356,3 +356,8 @@ a bunch of other stuff.
 - **Did:** finished the java doc, + a few emacs tooling.
 - **Learned:** not much today.
 - **Tomorrow:** Java powerpoint priority.
+
+### 2026-05-22 (Fri)
+- **Did:** finished the powerpoint, deploying a emacs script.
+- **Learned:** how melpa accepts emacs contributions.
+- **Tomorrow:** C programming, start a Json parser from scratch.
