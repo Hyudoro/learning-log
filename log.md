@@ -348,7 +348,7 @@ a bunch of other stuff.
 - **Tomorrow:** I have to do this java doc...
 
 ### 2026-05-20 (Wed)
-- **Did:** almost finished the java doc,finished the dl-completion stype and made it working for myself.
+- **Did:** almost finished the java doc,finished the dl-completion style and made it working for myself.
 - **Learned:** still many Elisp new concepts (Learning Lisp/commonLisp indirectly)
 - **Tomorrow:** Java powerpoint...
 
@@ -360,4 +360,9 @@ a bunch of other stuff.
 ### 2026-05-22 (Fri)
 - **Did:** finished the powerpoint, deploying a emacs script.
 - **Learned:** how melpa accepts emacs contributions.
+- **Tomorrow:** C programming, start a Json parser from scratch.
+
+### 2026-05-23 (Sat)
+- **Did:** deployed my small dl-completion style on codeberg.
+- **Learned:** how to deploy a melpa compliant package
 - **Tomorrow:** C programming, start a Json parser from scratch.
