@@ -366,3 +366,8 @@ a bunch of other stuff.
 - **Did:** deployed my small dl-completion style on codeberg.
 - **Learned:** how to deploy a melpa compliant package
 - **Tomorrow:** C programming, start a Json parser from scratch.
+
+### 2026-05-24 (Sun)
+- **Did:** Started reading Json documentation.
+- **Learned:** Where does JSON comes from.
+- **Tomorrow:** Contunie reading Json doc.
