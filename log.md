@@ -371,3 +371,8 @@ a bunch of other stuff.
 - **Did:** Started reading Json documentation.
 - **Learned:** Where does JSON comes from.
 - **Tomorrow:** Contunie reading Json doc.
+
+### 2026-05-25 (Mon)
+- **Did:** Continued reading JSON doc, starting to discover C basics.
+- **Learned:** how Json works internally and handles unicodes.
+- **Tomorrow:** finish reading the JSON doc and start implement a parser in JSON.
