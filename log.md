@@ -376,3 +376,8 @@ a bunch of other stuff.
 - **Did:** Continued reading JSON doc, starting to discover C basics.
 - **Learned:** how Json works internally and handles unicodes.
 - **Tomorrow:** finish reading the JSON doc and start implement a parser in JSON.
+
+### 2026-05-26 (Tue)
+- **Did:** finished reading the JSON doc, setted up c environment, gcc + gdb + eglot + clangd
+- **Learned:** JSON design choices when checking string matchings.
+- **Tomorrow:** start my first json parser in c.
