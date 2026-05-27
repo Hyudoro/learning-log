@@ -381,3 +381,8 @@ a bunch of other stuff.
 - **Did:** finished reading the JSON doc, setted up c environment, gcc + gdb + eglot + clangd
 - **Learned:** JSON design choices when checking string matchings.
 - **Tomorrow:** start my first json parser in c.
+
+### 2026-05-27 (Wed)
+- **Did:** actually finshed setting up my c environment (treesiter and makefile)
+- **Learned:** the actual basics of makefile for gcc processing.
+- **Tomorrow:** my java presentation, and also continue this project.
