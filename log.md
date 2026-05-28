@@ -386,3 +386,8 @@ a bunch of other stuff.
 - **Did:** actually finshed setting up my c environment (treesiter and makefile)
 - **Learned:** the actual basics of makefile for gcc processing.
 - **Tomorrow:** my java presentation, and also continue this project.
+
+### 2026-05-28 (Thu)
+- **Did:** succeeded my java presentation (pay_my_buddy finally completed), started implementing my json parser.
+- **Learned:** how a tokenizer works. Chooising UTF-16 and custom Hash-Map in pure c.
+- **Tomorrow:** keep going on the json_parser, and starting to plan the next java project.
