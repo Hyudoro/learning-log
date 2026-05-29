@@ -391,3 +391,8 @@ a bunch of other stuff.
 - **Did:** succeeded my java presentation (pay_my_buddy finally completed), started implementing my json parser.
 - **Learned:** how a tokenizer works. Chooising UTF-16 and custom Hash-Map in pure c.
 - **Tomorrow:** keep going on the json_parser, and starting to plan the next java project.
+
+### 2026-05-29 (Fri)
+- **Did:** paused json_parser (too difficult with 0 prior knowledge in c)
+- **Learned:** learning how malloc, calloc, free, realloc works along with pointers/deallocators.
+- **Tomorrow:** start planning the next java project (fr).
