@@ -396,3 +396,8 @@ a bunch of other stuff.
 - **Did:** paused json_parser (too difficult with 0 prior knowledge in c)
 - **Learned:** learning how malloc, calloc, free, realloc works along with pointers/deallocators.
 - **Tomorrow:** start planning the next java project (fr).
+
+### 2026-05-30 (Sat)
+- **Did:** continue doing c programming, using gdb to see how the in-memory works, started planning the next java project.
+- **Learned:** how to use the basics of gdb, using x/numbbytesxb var.
+- **Tomorrow:** continue planning the java project, continue c programming (I'm having way more fun in c that in java, first segflaut accomplished today.)
