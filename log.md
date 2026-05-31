@@ -401,3 +401,8 @@ a bunch of other stuff.
 - **Did:** continue doing c programming, using gdb to see how the in-memory works, started planning the next java project.
 - **Learned:** how to use the basics of gdb, using x/numbbytesxb var.
 - **Tomorrow:** continue planning the java project, continue c programming (I'm having way more fun in c that in java, first segflaut accomplished today.)
+
+### 2026-05-31 (Sun)
+- **Did:** day off, planned what to use for teh java project. and had fun with emacs.
+- **Learned:** usings docs within emacs.
+- **Tomorrow:** c programming, java programming.
