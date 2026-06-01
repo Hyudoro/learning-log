@@ -406,3 +406,8 @@ a bunch of other stuff.
 - **Did:** day off, planned what to use for teh java project. and had fun with emacs.
 - **Learned:** usings docs within emacs.
 - **Tomorrow:** c programming, java programming.
+
+### 2026-06-01 (Mon)
+- **Did:** learned the basics of actual multithreads processes. what they share and dont.
+- **Learned:** properties and mecanism (abstract still) of threads and processes.
+- **Tomorrow:** continue learning in cs with c.
