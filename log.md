@@ -411,3 +411,8 @@ a bunch of other stuff.
 - **Did:** learned the basics of actual multithreads processes. what they share and dont.
 - **Learned:** properties and mecanism (abstract still) of threads and processes.
 - **Tomorrow:** continue learning in cs with c.
+
+### 2026-06-02 (Tue)
+- **Did:** still learning the basics of actual multithreads processes and memory in general, also did a little bit of vim-motions learning in c (so much fun)
+- **Learned:** how do use the basics of vim motions some gdb commands for examining memory (really good for low level stuff)
+- **Tomorrow:** keep doing vim-motions and c stuff, java too but yeah..
