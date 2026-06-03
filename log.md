@@ -416,3 +416,8 @@ a bunch of other stuff.
 - **Did:** still learning the basics of actual multithreads processes and memory in general, also did a little bit of vim-motions learning in c (so much fun)
 - **Learned:** how do use the basics of vim motions some gdb commands for examining memory (really good for low level stuff)
 - **Tomorrow:** keep doing vim-motions and c stuff, java too but yeah..
+
+### 2026-06-03 (Wed)
+- **Did:** tinkering with my personnal keyboard, changing keymaps, and unicodes. c fork related stuff.
+- **Learned:** extend (barely) a "professional" software.
+- **Tomorrow:** keep learning vim-motions and regex, and c low-level.
