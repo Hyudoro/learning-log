@@ -421,3 +421,8 @@ a bunch of other stuff.
 - **Did:** tinkering with my personnal keyboard, changing keymaps, and unicodes. c fork related stuff.
 - **Learned:** extend (barely) a "professional" software.
 - **Tomorrow:** keep learning vim-motions and regex, and c low-level.
+
+### 2026-06-04 (Thu)
+- **Did:** finished the vim-motions tutorial (basic one)
+- **Learned:** how to search, use commands, vim bindings to be more effective.
+- **Tomorrow:** c low-level regex, keep vim-motions in practice.
