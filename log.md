@@ -426,3 +426,9 @@ a bunch of other stuff.
 - **Did:** finished the vim-motions tutorial (basic one)
 - **Learned:** how to search, use commands, vim bindings to be more effective.
 - **Tomorrow:** c low-level regex, keep vim-motions in practice.
+
+### 2026-06-05 (Fri)
+- **Did:** started with a course on c, kept vim-motions practiced and use them.
+cleaned up my config.
+- **Learned:** how works unsigned variables based on the compiler.
+- **Tomorrow:** Start the 7th java project keep practicing vim-motions, and c course.
