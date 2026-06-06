@@ -432,3 +432,9 @@ a bunch of other stuff.
 cleaned up my config.
 - **Learned:** how works unsigned variables based on the compiler.
 - **Tomorrow:** Start the 7th java project keep practicing vim-motions, and c course.
+
+### 2026-06-06 (Sat)
+- **Did:** Started the 7th java project integrating AI.
+- **Learned:** Using AI within a java project. kept practicing vim-motions.
+how to work with babel in Org mode within emacs (just the beginning).
+- **Tomorrow:** continue the 7th java project.. and keep learning babel stuff along with c.
