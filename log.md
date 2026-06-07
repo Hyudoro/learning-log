@@ -438,3 +438,9 @@ cleaned up my config.
 - **Learned:** Using AI within a java project. kept practicing vim-motions.
 how to work with babel in Org mode within emacs (just the beginning).
 - **Tomorrow:** continue the 7th java project.. and keep learning babel stuff along with c.
+
+### 2026-06-07 (Sun)
+- **Did:** Fixed a few issues with the editor, and some slowness.
+- **Learned:** migrated from emacs 29.3 to 30.90, using gcc-16, and treesitter ABI 15
+how to use kkp, debug internals using a debugger. how key sequences are processed by terminals.
+- **Tomorrow:** continue the 7th java project... and keep learning c stuff.
