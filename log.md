@@ -444,3 +444,8 @@ how to work with babel in Org mode within emacs (just the beginning).
 - **Learned:** migrated from emacs 29.3 to 30.90, using gcc-16, and treesitter ABI 15
 how to use kkp, debug internals using a debugger. how key sequences are processed by terminals.
 - **Tomorrow:** continue the 7th java project... and keep learning c stuff.
+
+### 2026-06-08 (Mon)
+- **Did:**  worked on my editor, making it more clean and just overall better. keep optimizing it.
+- **Learned:** how to custom a package with :config and using :init.
+- **Tomorrow:** continue working on the java project.
