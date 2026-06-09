@@ -449,3 +449,8 @@ how to use kkp, debug internals using a debugger. how key sequences are processe
 - **Did:**  worked on my editor, making it more clean and just overall better. keep optimizing it.
 - **Learned:** how to custom a package with :config and using :init.
 - **Tomorrow:** continue working on the java project.
+
+### 2026-06-09 (Tue)
+- **Did:** Continued working on the java projec , make my editor better and cleaner and more optimized (anniversary btw)
+- **Learned:** learned how to use some bash sripting and function call.
+- **Tomorrow:** continue working on the java project. (C programming, and if I have time setup the emacsclient for persistence sesion.)
