@@ -454,3 +454,8 @@ how to use kkp, debug internals using a debugger. how key sequences are processe
 - **Did:** Continued working on the java projec , make my editor better and cleaner and more optimized (anniversary btw)
 - **Learned:** learned how to use some bash sripting and function call.
 - **Tomorrow:** continue working on the java project. (C programming, and if I have time setup the emacsclient for persistence sesion.)
+
+### 2026-06-10 (Wed)
+- **Did:** Continued working on the java project, C programming. debug session.
+- **Learned:** Using hooks with gdb, specifics commands.
+- **Tomorrow:** continue working on the java project then keep integrating gdb/jdtls workflows to my programming sessions.
