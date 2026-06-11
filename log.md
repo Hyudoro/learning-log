@@ -459,3 +459,8 @@ how to use kkp, debug internals using a debugger. how key sequences are processe
 - **Did:** Continued working on the java project, C programming. debug session.
 - **Learned:** Using hooks with gdb, specifics commands.
 - **Tomorrow:** continue working on the java project then keep integrating gdb/jdtls workflows to my programming sessions.
+
+### 2026-06-11 (Thu)
+- **Did:** gdb oriented programming with c. and shifting towards debugger first programming.
+- **Learned:** keep leaning about hooks and special flags and args.
+- **Tomorrow:** java project 7, keep learning c along with the debugger.
