@@ -464,3 +464,8 @@ how to use kkp, debug internals using a debugger. how key sequences are processe
 - **Did:** gdb oriented programming with c. and shifting towards debugger first programming.
 - **Learned:** keep leaning about hooks and special flags and args.
 - **Tomorrow:** java project 7, keep learning c along with the debugger.
+
+### 2026-06-12 (Fri)
+- **Did:** bunch of java code, along with c programming.
+- **Learned:** Arrays are not real. Contiguous slots of memory contained are.
+- **Tomorrow:** working on the java project and continue C programming.
