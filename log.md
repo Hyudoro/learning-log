@@ -469,3 +469,9 @@ how to use kkp, debug internals using a debugger. how key sequences are processe
 - **Did:** bunch of java code, along with c programming.
 - **Learned:** Arrays are not real. Contiguous slots of memory contained are.
 - **Tomorrow:** working on the java project and continue C programming.
+
+### 2026-06-13 (Sat)
+- **Did:** day-off, coded a bit in c and read emacs docs.
+- **Learned:** learned about how stride works along with pointers.
+and how to setup an emacsdameon for sessions persistence.
+- **Tomorrow:** Java project 7, keep learning c along with the debugger.
