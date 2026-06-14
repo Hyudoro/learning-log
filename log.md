@@ -475,3 +475,8 @@ how to use kkp, debug internals using a debugger. how key sequences are processe
 - **Learned:** learned about how stride works along with pointers.
 and how to setup an emacsdameon for sessions persistence.
 - **Tomorrow:** Java project 7, keep learning c along with the debugger.
+
+### 2026-06-14 (Sun)
+- **Did:** worked on the java project, and initialized it with docker. setted up my emacsclient along with aliases for persistent sessions.
+- **Learned:** how to use an emacsclient, to make the emacs loading snappy and persistent. and how to dockerize a java project. (the basics)
+- **Tomorrow:** keep c programming learning, and then working on the java project.
