@@ -480,3 +480,8 @@ and how to setup an emacsdameon for sessions persistence.
 - **Did:** worked on the java project, and initialized it with docker. setted up my emacsclient along with aliases for persistent sessions.
 - **Learned:** how to use an emacsclient, to make the emacs loading snappy and persistent. and how to dockerize a java project. (the basics)
 - **Tomorrow:** keep c programming learning, and then working on the java project.
+
+### 2026-06-15 (Mon)
+- **Did:** worked on the java project. (no time for c today sadly)
+- **Learned:** fix bugs and depecrated libraries depending on the requirements...
+- **Tomorrow:** keep working on the java project. and continue c learning.
