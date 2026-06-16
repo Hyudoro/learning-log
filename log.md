@@ -485,3 +485,8 @@ and how to setup an emacsdameon for sessions persistence.
 - **Did:** worked on the java project. (no time for c today sadly)
 - **Learned:** fix bugs and depecrated libraries depending on the requirements...
 - **Tomorrow:** keep working on the java project. and continue c learning.
+
+### 2026-06-16 (Tue)
+- **Did:** worked on the java project. (still not much time for c today)
+- **Learned:** learned a bit about mmu, instruction pointers, registers, swap slot, vm with pages and frames and page tables, and PTE and bit status and frame number, and PF(page fault)).
+- **Tomorrow:** keep working on the java project. try to keep with c + CS subjects.
