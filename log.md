@@ -490,3 +490,8 @@ and how to setup an emacsdameon for sessions persistence.
 - **Did:** worked on the java project. (still not much time for c today)
 - **Learned:** learned a bit about mmu, instruction pointers, registers, swap slot, vm with pages and frames and page tables, and PTE and bit status and frame number, and PF(page fault)).
 - **Tomorrow:** keep working on the java project. try to keep with c + CS subjects.
+
+### 2026-06-17 (Wed)
+- **Did:** debugged and fixed some issues with the java project.
+- **Learned:** how a bootstrap compiler works. particularly with c compilers.
+- **Tomorrow:** continue the java project and c learning.
