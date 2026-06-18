@@ -495,3 +495,8 @@ and how to setup an emacsdameon for sessions persistence.
 - **Did:** debugged and fixed some issues with the java project.
 - **Learned:** how a bootstrap compiler works. particularly with c compilers.
 - **Tomorrow:** continue the java project and c learning.
+
+### 2026-06-18 (Thu)
+- **Did:** continued the java project fixing some other bugs.
+- **Learned:** learned about void pointers, and how they work with the gcc compiler.
+- **Tomorrow:** continue the java project, and continue learning c.
