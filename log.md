@@ -500,3 +500,8 @@ and how to setup an emacsdameon for sessions persistence.
 - **Did:** continued the java project fixing some other bugs.
 - **Learned:** learned about void pointers, and how they work with the gcc compiler.
 - **Tomorrow:** continue the java project, and continue learning c.
+
+### 2026-06-19 (Fri)
+- **Did:** Added a datainitializer for the javaproject, a bit of c programming.
+- **Learned:** how does indexing the page table works from the mmu perspective.
+- **Tomorrow:** keep learning c programming, and add the tests for the java project.
