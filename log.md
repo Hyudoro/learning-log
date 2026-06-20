@@ -505,3 +505,8 @@ and how to setup an emacsdameon for sessions persistence.
 - **Did:** Added a datainitializer for the javaproject, a bit of c programming.
 - **Learned:** how does indexing the page table works from the mmu perspective.
 - **Tomorrow:** keep learning c programming, and add the tests for the java project.
+
+### 2026-06-20 (Sat)
+- **Did:** added a few tests, but not finished, updated my compiler.
+- **Learned:** gcc is a compiler driver, the actual compiler is cc1.
+- **Tomorrow:** keep learning C programming (through cs), and tests for java.
