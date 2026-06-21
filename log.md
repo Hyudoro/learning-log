@@ -510,3 +510,8 @@ and how to setup an emacsdameon for sessions persistence.
 - **Did:** added a few tests, but not finished, updated my compiler.
 - **Learned:** gcc is a compiler driver, the actual compiler is cc1.
 - **Tomorrow:** keep learning C programming (through cs), and tests for java.
+
+### 2026-06-21 (Sun)
+- **Did:** added some tests (almost finished)
+- **Learned:** Difference between ult's and klt's.
+- **Tomorrow:** keep leaning about low level concepts, and finish the java tests.
