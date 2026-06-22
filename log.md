@@ -515,3 +515,8 @@ and how to setup an emacsdameon for sessions persistence.
 - **Did:** added some tests (almost finished)
 - **Learned:** Difference between ult's and klt's.
 - **Tomorrow:** keep leaning about low level concepts, and finish the java tests.
+
+### 2026-06-22 (Mon)
+- **Did:** Learning on PLT stubs, and how static linker and dynamic linkes works.
+- **Learned:** "
+- **Tomorrow:** keep learning about low level concepts.
