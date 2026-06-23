@@ -520,3 +520,8 @@ and how to setup an emacsdameon for sessions persistence.
 - **Did:** Learning on PLT stubs, and how static linker and dynamic linkes works.
 - **Learned:** "
 - **Tomorrow:** keep learning about low level concepts.
+
+### 2026-06-23 (Tue)
+- **Did:** keep deepening on the PLT stubs.
+- **Learned:** how it actually works under the hood with the elf format sections, the GOT slots, the reloc index, and the resolve bouncer PLT[0] with the indexation of the link map by the resolver method to actually find the shared library.
+- **Tomorrow:** continuing low levl learning.
