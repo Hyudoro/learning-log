@@ -525,3 +525,8 @@ and how to setup an emacsdameon for sessions persistence.
 - **Did:** keep deepening on the PLT stubs.
 - **Learned:** how it actually works under the hood with the elf format sections, the GOT slots, the reloc index, and the resolve bouncer PLT[0] with the indexation of the link map by the resolver method to actually find the shared library.
 - **Tomorrow:** continuing low levl learning.
+
+### 2026-06-24 (Wed)
+- **Did:**finished unit tests for the java app, finished the lazy address patching on the GOT via the PLT.
+- **Learned:** Understood end-to-end how a lazy address patching actually works when a finction is used into a program (in c)
+- **Tomorrow:** keep learning low level concepts and finish the java integrations tests.
