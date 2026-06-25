@@ -530,3 +530,8 @@ and how to setup an emacsdameon for sessions persistence.
 - **Did:**finished unit tests for the java app, finished the lazy address patching on the GOT via the PLT.
 - **Learned:** Understood end-to-end how a lazy address patching actually works when a finction is used into a program (in c)
 - **Tomorrow:** keep learning low level concepts and finish the java integrations tests.
+
+### 2026-06-25 (Thu)
+- **Did:** mainly some exercies around chmod and chown, and permission.
+- **Learned:** how does chmod works with uid's and guid's and the notations and conventions, and chown too, along with usermode.
+- **Tomorrow:** do the logs of the java app, and the powerpoint.
