@@ -535,3 +535,8 @@ and how to setup an emacsdameon for sessions persistence.
 - **Did:** mainly some exercies around chmod and chown, and permission.
 - **Learned:** how does chmod works with uid's and guid's and the notations and conventions, and chown too, along with usermode.
 - **Tomorrow:** do the logs of the java app, and the powerpoint.
+
+### 2026-06-26 (Fri)
+- **Did:** logging to the java app, the powerpoint, and some KLT's ULT's.
+- **Learned:** how KLT's and ULT's works on a linux system.
+- **Tomorrow:** low-level learning (busy day outside of pragramming anyway.)
