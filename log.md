@@ -540,3 +540,9 @@ and how to setup an emacsdameon for sessions persistence.
 - **Did:** logging to the java app, the powerpoint, and some KLT's ULT's.
 - **Learned:** how KLT's and ULT's works on a linux system.
 - **Tomorrow:** low-level learning (busy day outside of pragramming anyway.)
+
+### 2026-06-27 (Sat)
+- **Did:** didn't really had time to do anything (busy day), added the jacoco dependency, almost finished implementing it within the project,
+watched a little bit at the docker compose documentation, for advanced usage. Dared comparing it to nixOS config file.
+- **Learned:** how to handle networks within docker, to avoid network weird behaviors while restarting them. (bug fixed, but I need to deepen my knowledge in this)
+- **Tomorrow:** finish the jacoco integration, and add some integration tests on the services (controler's one already done), and keep learning with low level concepts, (mornig busy day too).
