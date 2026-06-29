@@ -546,3 +546,8 @@ and how to setup an emacsdameon for sessions persistence.
 watched a little bit at the docker compose documentation, for advanced usage. Dared comparing it to nixOS config file.
 - **Learned:** how to handle networks within docker, to avoid network weird behaviors while restarting them. (bug fixed, but I need to deepen my knowledge in this)
 - **Tomorrow:** finish the jacoco integration, and add some integration tests on the services (controler's one already done), and keep learning with low level concepts, (mornig busy day too).
+
+### 2026-06-29 (Mon)
+- **Did:** day off, jacoco intogration finished started using meow botions
+- **Learned:** how to move more efficiently through emacs and thinking about embedding more stuff into my config.
+- **Tomorrow:** finish the integration tests (and keep learning low level concepts)
