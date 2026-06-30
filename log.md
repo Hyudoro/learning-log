@@ -548,6 +548,11 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Tomorrow:** finish the jacoco integration, and add some integration tests on the services (controler's one already done), and keep learning with low level concepts, (mornig busy day too).
 
 ### 2026-06-29 (Mon)
-- **Did:** day off, jacoco intogration finished started using meow botions
+- **Did:** day off, jacoco integration finished planned starting using meow motions
 - **Learned:** how to move more efficiently through emacs and thinking about embedding more stuff into my config.
 - **Tomorrow:** finish the integration tests (and keep learning low level concepts)
+
+### 2026-06-30 (Tue)
+- **Did:** added java docs for the java project security started curating my editor config for using meow.
+- **Learned:** how does meow works, and how its less intrusive with emacs.
+- **Tomorrow:** finish some integration tests (and eventually polish the java project), and keep learning low level concepts.
