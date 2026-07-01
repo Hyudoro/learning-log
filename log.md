@@ -556,3 +556,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** added java docs for the java project security started curating my editor config for using meow.
 - **Learned:** how does meow works, and how its less intrusive with emacs.
 - **Tomorrow:** finish some integration tests (and eventually polish the java project), and keep learning low level concepts.
+
+### 2026-07-01 (Wed)
+- **Did:** started teh meow tutor guide, learning little by little.
+- **Learned:** basic moves with meow.
+- **Tomorrow:** finish polising the java project
