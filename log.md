@@ -558,6 +558,11 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Tomorrow:** finish some integration tests (and eventually polish the java project), and keep learning low level concepts.
 
 ### 2026-07-01 (Wed)
-- **Did:** started teh meow tutor guide, learning little by little.
+- **Did:** started the meow tutor guide, learning little by little.
 - **Learned:** basic moves with meow.
 - **Tomorrow:** finish polising the java project
+
+### 2026-07-03 (Fri)
+- **Did:** configured a minimal meow-kakoune style, and home row mode on hold. fixed a few bugs with docker.
+- **Learned:** how meow workns under the hood
+- **Tomorrow:** low level-learning and meow learning.
