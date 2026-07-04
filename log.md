@@ -566,3 +566,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** configured a minimal meow-kakoune style, and home row mode on hold. fixed a few bugs with docker.
 - **Learned:** how meow workns under the hood
 - **Tomorrow:** low level-learning and meow learning.
+
+### 2026-07-04 (Sat)
+- **Did:** presented the java project, its ready for eval, some meow training.
+- **Learned:** how to properly present a memory based database such as h2 and sqlite. some few things about meow and how bad home row modes actually are when you a fast typer.
+- **Tomorrow:** start the meow tutorial, and start thinking about the 8th project.
