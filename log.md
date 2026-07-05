@@ -571,3 +571,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** presented the java project, its ready for eval, some meow training.
 - **Learned:** how to properly present a memory based database such as h2 and sqlite. some few things about meow and how bad home row modes actually are when you a fast typer.
 - **Tomorrow:** start the meow tutorial, and start thinking about the 8th project.
+
+### 2026-07-05 (Sun)
+- **Did:** day off, learned a bit of emacslisp.
+- **Learned:** some vocabulary of emacs with the glossary.
+- **Tomorrow:** start the meow tutorial, and start thinkinh about the 8 project. and not forgetting revising low-lvl concepts.
