@@ -576,3 +576,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** day off, learned a bit of emacslisp.
 - **Learned:** some vocabulary of emacs with the glossary.
 - **Tomorrow:** start the meow tutorial, and start thinkinh about the 8 project. and not forgetting revising low-lvl concepts.
+
+### 2026-07-06 (Mon)
+- **Did:** started the meow tutorial. getting used to effucient motions for editing a file.
+- **Learned:** a few bindings and terminology of the library.
+- **Tomorrow:** thinking about the 8th project. revising low-lvl concepts.
