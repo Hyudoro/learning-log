@@ -581,3 +581,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** started the meow tutorial. getting used to effucient motions for editing a file.
 - **Learned:** a few bindings and terminology of the library.
 - **Tomorrow:** thinking about the 8th project. revising low-lvl concepts.
+
+### 2026-07-07 (Tue)
+- **Did:** almost finished the meow tutorial.
+- **Learned:** a few more bindings.
+- **Tomorrow:** preparing the presentation of the 7th project. keep working on low-lvl concepts.
