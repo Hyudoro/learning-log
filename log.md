@@ -586,3 +586,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** almost finished the meow tutorial.
 - **Learned:** a few more bindings.
 - **Tomorrow:** preparing the presentation of the 7th project. keep working on low-lvl concepts.
+
+### 2026-07-08 (Wed)
+- **Did:** finished the meow tutorial.
+- **Learned:** the solid basics with meow motions.
+- **Tomorrow:** continue preparing for the 7th project's presentation. keep working on low-lvl concepts.
