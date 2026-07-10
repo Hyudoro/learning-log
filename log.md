@@ -596,3 +596,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** prepared for the 7th project pres. worked a little bit on c with trees.
 - **Learned:** learning using c in algorithm context.
 - **Tomorrow:** Present the 7th project. and keep working on low-lvl concepts
+
+### 2026-07-10 (Fri)
+- **Did:** succeeded the 7th project presentation. fixed a few emacs package after the migration.
+- **Learned:** some docker concepts such as a bridge driver, prefering native undo redo engine.
+- **Tomorrow:** Start planning about the 8th project, keep learning low-lvl concepts.
