@@ -601,3 +601,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** succeeded the 7th project presentation. fixed a few emacs package after the migration.
 - **Learned:** some docker concepts such as a bridge driver, prefering native undo redo engine.
 - **Tomorrow:** Start planning about the 8th project, keep learning low-lvl concepts.
+
+### 2026-07-11 (Sat)
+- **Did:** day off, reading some emacs docs, using proced, and dired.
+- **Learned:** A few things on navigation through docs.
+- **Tomorrow:** planning about the 8th project, keep learning lowlvl concepts.
