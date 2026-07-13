@@ -606,3 +606,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** day off, reading some emacs docs, using proced, and dired.
 - **Learned:** A few things on navigation through docs.
 - **Tomorrow:** planning about the 8th project, keep learning lowlvl concepts.
+
+### 2026-07-13 (Mon)
+- **Did:** Planned a few things about the java 8th project. and started to learn how to use the a variant of the POSIX EPE regexp.
+- **Learned:** a few paradigms.
+- **Tomorrow:** finish planning the java project, and continue learning the regexp utilization.
