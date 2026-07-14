@@ -611,3 +611,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** Planned a few things about the java 8th project. and started to learn how to use the a variant of the POSIX EPE regexp.
 - **Learned:** a few paradigms.
 - **Tomorrow:** finish planning the java project, and continue learning the regexp utilization.
+
+### 2026-07-14 (Tue)
+- **Did:** mostly tweaking my moonlander for a better overall experience, and emacs config.
+- **Learned:** new paradigms and ways of using the keyboard, and some customizations of emacs (I had fun honestly)
+- **Tomorrow:** finish planning the java project, and continue learning the regexp utilization of emacs.
