@@ -616,3 +616,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** mostly tweaking my moonlander for a better overall experience, and emacs config.
 - **Learned:** new paradigms and ways of using the keyboard, and some customizations of emacs (I had fun honestly)
 - **Tomorrow:** finish planning the java project, and continue learning the regexp utilization of emacs.
+
+### 2026-07-15 (Wed)
+- **Did:** still tweaking the moonlander for a better overall experience, and emacs config.
+- **Learned:** a few things (not much), just trying things, learned a few more regexp utizilations.
+- **Tomorrow:** finish planning the java project
