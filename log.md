@@ -626,3 +626,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** trying cleaning as much as possible my emacs config, to make it as fast as possible.
 - **Learned:** fixed a few bugs hiden in the config file.
 - **Tomorrow:** continue doing so until having a really snappy and fast emacs.
+
+### 2026-07-17 (Fri)
+- **Did:**, wrote a window layout script for docs buffers,  still cleaning and debugging my emacs config. gained 3 second at startup.
+- **Learned:** how to use the edebug-defun.
+- **Tomorrow:** continue optimizing emacs.
