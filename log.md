@@ -631,3 +631,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:**, wrote a window layout script for docs buffers,  still cleaning and debugging my emacs config. gained 3 second at startup.
 - **Learned:** how to use the edebug-defun.
 - **Tomorrow:** continue optimizing emacs.
+
+### 2026-07-18 (Sat)
+- **Did:** continue optimizing emacs.
+- **Learned:** starting to learn about CI/CD.
+- **Tomorrow:** continue optimizing emacs.
