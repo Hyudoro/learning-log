@@ -636,3 +636,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** continue optimizing emacs.
 - **Learned:** starting to learn about CI/CD.
 - **Tomorrow:** continue optimizing emacs.
+
+### 2026-07-19 (Sun)
+- **Did:** continue optimizing emacs, went with elpaca instead of straight, for asyn packages install, optimized my scripts and created a script for native compilation of personnal scripts.
+- **Learned:** beginning my elpaca journey, will learn more tomorrow, while starting the project 8.
+- **Tomorrow:** learning about elpaca deeply, and start the java project 8. (and still optimizing emacs)
