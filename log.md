@@ -641,3 +641,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** continue optimizing emacs, went with elpaca instead of straight, for asyn packages install, optimized my scripts and created a script for native compilation of personnal scripts.
 - **Learned:** beginning my elpaca journey, will learn more tomorrow, while starting the project 8.
 - **Tomorrow:** learning about elpaca deeply, and start the java project 8. (and still optimizing emacs)
+
+### 2026-07-20 (Mon)
+- **Did:** Optimized the completion process, added eglot set up and dape to native compilation and in their own packages for modularity. I fixed the few bugs with the language servern (java) and now everything works perfectly and is almost fast enough to have a really good experience while coding.
+- **Learned:** a lot, I would say today I learned particularly how async works with emacs, and how to multi-steps a package with cmake.
+- **Tomorrow:** keep improving my emacs confi.
