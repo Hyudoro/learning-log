@@ -646,3 +646,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** Optimized the completion process, added eglot set up and dape to native compilation and in their own packages for modularity. I fixed the few bugs with the language servern (java) and now everything works perfectly and is almost fast enough to have a really good experience while coding.
 - **Learned:** a lot, I would say today I learned particularly how async works with emacs, and how to multi-steps a package with cmake.
 - **Tomorrow:** keep improving my emacs confi.
+
+### 2026-07-21 (Tue)
+- **Did:** improved a bit the emacs config, but mainly starting thinking about managing my own package for a dashboard.
+- **Learned:** how org-agenda works, and starting to have idea to make everything smooth and really easy to use.
+- **Tomorrow:** keep planning the organize package, and continue the java project.
