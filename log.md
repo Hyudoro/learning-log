@@ -656,3 +656,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** finished planning the organize package (not really but I need a linux distrib before not wsl and a terminal emacs.)
 - **Learned:** installed a few neat stuff such as jinx for spelling checking. and a few package completing my emacs config (almost finished (for now.))
 - **Tomorrow:** keep going into finishing my config and its optimization (I have a really good and fast emacs now, but I need more).
+
+### 2026-07-23 (Thu)
+- **Did:** Started working on the 8th project of java.
+- **Learned:** not much, its still the setup day.
+- **Tomorrow:** continue working on the project
