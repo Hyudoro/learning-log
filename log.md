@@ -661,3 +661,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** Started working on the 8th project of java.
 - **Learned:** not much, its still the setup day.
 - **Tomorrow:** continue working on the project
+
+### 2026-07-24 (Fri)
+- **Did:** working on the 8th java project.
+- **Learned:** learned about concurrency and parallelism in java.
+- **Tomorrow:** keep working on the 8th project
