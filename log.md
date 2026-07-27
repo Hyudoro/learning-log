@@ -676,3 +676,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** working on the 8th java project (especially the performances). fix a few bugs.
 - **Learned:** Still learning about concurrency and parallelism.
 - **Tomorrow:** Keep working on the 8th project.
+
+### 2026-07-27 (Mon)
+- **Did:** Working on the 8th java project (performances).
+- **Learned:** mainly focused on the performances, and the mathsb behind the algorithms.
+- **Tomorrow:** keep working on the 8th project.
