@@ -691,3 +691,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** working on the 8th java project (performances).
 - **Learned:** mainly focused on the performances, concurrency and threading.
 - **Tomorrow:** keep working on the 8th project.
+
+### 2026-07-30 (Thu)
+- **Did:** Working on the 8th java project (performances).
+- **Learned:** mainly focused on the performance, concurrency and threading.
+- **Tomorrow:** keep working on the 8th project.
