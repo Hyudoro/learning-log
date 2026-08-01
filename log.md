@@ -696,3 +696,13 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** Working on the 8th java project (performances).
 - **Learned:** mainly focused on the performance, concurrency and threading.
 - **Tomorrow:** keep working on the 8th project.
+
+### 2026-07-31 (Fri)
+- **Did:** Working on the 8th java project (performances).
+- **Learned:** mainly focused on the performances and virtual threads.
+- **Tomorrow:** keep working on the 8th project.
+
+### 2026-08-01 (Sat)
+- **Did:** Day-off, upgraded my emacs setup.
+- **Learned:** a few things about the architecture of a project and dynamic path holder variables.
+- **Tomorrow:** Still upgrading my emacs setup and continue finishing the performances part for the java project.
