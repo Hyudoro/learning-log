@@ -706,3 +706,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** Day-off, upgraded my emacs setup.
 - **Learned:** a few things about the architecture of a project and dynamic path holder variables.
 - **Tomorrow:** Still upgrading my emacs setup and continue finishing the performances part for the java project.
+
+### 2026-08-02 (Sun)
+- **Did:** Fixed a few bugs and added a few nice to have.
+- **Learned:** emacs specific stuff.
+- **Tomorrow:** Still upgrading my emacs setup and continue finishing the perfromances part for the java project.
