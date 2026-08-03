@@ -710,4 +710,9 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 ### 2026-08-02 (Sun)
 - **Did:** Fixed a few bugs and added a few nice to have.
 - **Learned:** emacs specific stuff.
-- **Tomorrow:** Still upgrading my emacs setup and continue finishing the perfromances part for the java project.
+- **Tomorrow:** Still upgrading my emacs setup and continue finishing the performance part for the java project.
+
+### 2026-08-03 (Mon)
+- **Did:** Optimized some few things and added some emacs specific stuff.
+- **Learned:** Emacs specific stuff (compiling and recompiling jobs)
+- **Tomorrow:** Still upgrading my emacs setup and continue finishing the performance part for the java project.
