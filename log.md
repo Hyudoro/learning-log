@@ -716,3 +716,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** Optimized some few things and added some emacs specific stuff.
 - **Learned:** Emacs specific stuff (compiling and recompiling jobs)
 - **Tomorrow:** Still upgrading my emacs setup and continue finishing the performance part for the java project.
+
+### 2026-08-04 (Tue)
+- **Did:** installed clojure babashka and the clojure cli (and the development environment around it)
+- **Learned:** what is interractive programming, and how good is it for java programmers.
+- **Tomorrow:** continue the java project
