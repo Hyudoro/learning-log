@@ -721,3 +721,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** installed clojure babashka and the clojure cli (and the development environment around it)
 - **Learned:** what is interractive programming, and how good is it for java programmers.
 - **Tomorrow:** continue the java project
+
+### 2026-08-05 (Wed)
+- **Did:** fixed a few bugs in emacs and worked on the java project
+- **Learned:** how to use the emacs built-in profiler, and how emacs deals with the line number displayer.
+- **Tomorrow:** continue the java project
