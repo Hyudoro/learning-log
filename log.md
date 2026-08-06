@@ -726,3 +726,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** fixed a few bugs in emacs and worked on the java project
 - **Learned:** how to use the emacs built-in profiler, and how emacs deals with the line number displayer.
 - **Tomorrow:** continue the java project
+
+### 2026-08-06 (Thu)
+- **Did:** writing the documentation and a few benchmarks fro the java project.
+- **Learned:** tryingt usintg babashka and clojure for scripting.
+- **Tomorrow:** continuing this path.
