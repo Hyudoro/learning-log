@@ -729,5 +729,10 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 
 ### 2026-08-06 (Thu)
 - **Did:** writing the documentation and a few benchmarks fro the java project.
-- **Learned:** tryingt usintg babashka and clojure for scripting.
+- **Learned:** trying using babashka and clojure for scripting.
 - **Tomorrow:** continuing this path.
+
+### 2026-08-07 (Fri)
+- **Did:** finished the documentation and a compact CI for the java project
+- **Learned:** learning to use clojure for benchmarks scripts.
+- **Tomorrow:** clean the code and make it more concise.
