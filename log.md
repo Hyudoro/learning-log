@@ -736,3 +736,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** finished the documentation and a compact CI for the java project
 - **Learned:** learning to use clojure for benchmarks scripts.
 - **Tomorrow:** clean the code and make it more concise.
+
+### 2026-08-08 (Sat)
+- **Did:** writing a hook script that sources shell files after buffer saved from emacs.
+- **Learned:** using hooks more extensivily and the conventions in elisp.
+- **Tomorrow:** clean the code and make it more concise.
