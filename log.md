@@ -741,3 +741,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** writing a hook script that sources shell files after buffer saved from emacs.
 - **Learned:** using hooks more extensivily and the conventions in elisp.
 - **Tomorrow:** clean the code and make it more concise.
+
+### 2026-08-09 (Sun)
+- **Did:** optimized my configuration, and my clojure intration (with babashka) along the installation of dired-preview.
+- **Learned:** Using hooks more extensivily and the clojure env.
+- **Tomorrow:** lean the code and make it more concise.
