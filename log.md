@@ -745,4 +745,9 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 ### 2026-08-09 (Sun)
 - **Did:** optimized my configuration, and my clojure intration (with babashka) along the installation of dired-preview.
 - **Learned:** Using hooks more extensivily and the clojure env.
-- **Tomorrow:** lean the code and make it more concise.
+- **Tomorrow:** clean the code and make it more concise.
+
+### 2026-08-10 (Mon)
+- **Did:** added a dired preview package and configured it, and a script for moving text in real time.
+- **Learned:** learn about some regexp and use the magic bytes signature of a file.
+- **Tomorrow:**clean the code and make  it more concise.
