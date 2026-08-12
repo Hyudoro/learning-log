@@ -751,3 +751,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** added a dired preview package and configured it, and a script for moving text in real time.
 - **Learned:** learn about some regexp and use the magic bytes signature of a file.
 - **Tomorrow:**clean the code and make  it more concise.
+
+### 2026-08-11 (Tue)
+- **Did:** migrated to the emacs 32.50 version. Fixed a few deprecated and optimized my config.
+- **Learned:** some emacs spefics stuff.
+- **Tomorrow:** clean the java project code, and add the last feature and then finish a clean documentation.
