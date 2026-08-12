@@ -756,3 +756,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** migrated to the emacs 32.50 version. Fixed a few deprecated and optimized my config.
 - **Learned:** some emacs spefics stuff.
 - **Tomorrow:** clean the java project code, and add the last feature and then finish a clean documentation.
+
+### 2026-08-12 (Wed)
+- **Did:** fixed a few stuff in my config, with dired, and a docs bug.
+- **Learned:** how to use built-in dired embedded features.
+- **Tomorrow:** clean the java project code, and add the last feature and then finish a celan documentation.
