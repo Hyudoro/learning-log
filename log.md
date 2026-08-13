@@ -761,3 +761,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** fixed a few stuff in my config, with dired, and a docs bug.
 - **Learned:** how to use built-in dired embedded features.
 - **Tomorrow:** clean the java project code, and add the last feature and then finish a celan documentation.
+
+### 2026-08-13 (Thu)
+- **Did:** cleaned the java project code, and added the lrast fteature.
+- **Learned:** not much
+- **Tomorrow:** finish the project as is, so I can do the powerpoint.
