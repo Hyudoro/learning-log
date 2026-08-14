@@ -766,3 +766,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** cleaned the java project code, and added the lrast fteature.
 - **Learned:** not much
 - **Tomorrow:** finish the project as is, so I can do the powerpoint.
+
+### 2026-08-14 (Fri)
+- **Did:** completed the documentation and started the powerpoint, worked on personnal stuff with emacs.
+- **Learned:** how to convert org files in words.
+- **Tomorrow:** finish the powerpoint and add a few things to the project
