@@ -771,3 +771,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** completed the documentation and started the powerpoint, worked on personnal stuff with emacs.
 - **Learned:** how to convert org files in words.
 - **Tomorrow:** finish the powerpoint and add a few things to the project
+
+### 2026-08-15 (Sat)
+- **Did:** started to integrate AI in my workflow, I can't avoid it too much anymore (It's just a tool right ? ...)
+- **Learned:** my workflow around AI.
+- **Tomorrow:** continue, and optimize and squeeze as much as possible, what emacs gives me to be able to have the best AI driven development env.
