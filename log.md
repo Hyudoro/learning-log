@@ -776,3 +776,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** started to integrate AI in my workflow, I can't avoid it too much anymore (It's just a tool right ? ...)
 - **Learned:** my workflow around AI.
 - **Tomorrow:** continue, and optimize and squeeze as much as possible, what emacs gives me to be able to have the best AI driven development env.
+
+### 2026-08-16 (Sun)
+- **Did:** Day-off, made a few tweaks within emacs, and completed the feature missing in the project I over-sighted.
+- **Learned:** nothing much except a few documentation things within emacs and how llms work with the cli internally.
+- **Tomorrow:** finish the powerpoint (really..).
