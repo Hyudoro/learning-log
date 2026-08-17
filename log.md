@@ -781,3 +781,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** Day-off, made a few tweaks within emacs, and completed the feature missing in the project I over-sighted.
 - **Learned:** nothing much except a few documentation things within emacs and how llms work with the cli internally.
 - **Tomorrow:** finish the powerpoint (really..).
+
+### 2026-08-17 (Mon)
+- **Did:** made some git aliases, fix a bunch of bugs within emacs, finished the powerpoint.
+- **Learned:** how dos git handles his aliases.
+- **Tomorrow:** make the finish project more "finished"
