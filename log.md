@@ -786,3 +786,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** made some git aliases, fix a bunch of bugs within emacs, finished the powerpoint.
 - **Learned:** how dos git handles his aliases.
 - **Tomorrow:** make the finish project more "finished"
+
+### 2026-08-18 (Tue)
+- **Did:** Finished my emacs config (for now), really satisfied with the result. Started learning about Gentoo for real (reading the handbook.). Planning the full switch between WSL and Gentoo.
+- **Learned:** How partitions works, and how to format a GUID partition table. (maybe gonna encryt my root file system.), the difference between the new EFI system with the legacy MBR, how they handle partitions and locate them.
+- **Tomorrow:** read more about gentoo and work on personnal stuff.
