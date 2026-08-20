@@ -796,3 +796,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** worked on c programming, read more about gentoo.
 - **Learned:** makefile related things, and encryting with tools.
 - **Tomorrow:** continue that way.
+
+### 2026-08-20 (Thu)
+- **Did:** learning a bit more about makefile, and how headers work in c. kept reading the gentoo handbook.
+- **Learned:** the difference between natural java librarys imports and headers in c.
+- **Tomorrow:** continue that way
