@@ -801,3 +801,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** learning a bit more about makefile, and how headers work in c. kept reading the gentoo handbook.
 - **Learned:** the difference between natural java librarys imports and headers in c.
 - **Tomorrow:** continue that way
+
+### 2026-08-22 (Sat)
+- **Did:** started a minimal cd gento install on a sandbox computer went until the network config stage.
+- **Learned:** creating an address and its CIDR.
+- **Tomorrow:** continue the manual network configuration
