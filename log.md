@@ -806,3 +806,8 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** started a minimal cd gento install on a sandbox computer went until the network config stage.
 - **Learned:** creating an address and its CIDR.
 - **Tomorrow:** continue the manual network configuration
+
+### 2026-08-23 (Sun)
+- **Did:** continued the tutorial, finished installing the stage tarball, no-multilib with the openRC depedency based init system.
+- **Learned:** how openRC differentiate with systemD. (and a few additional stuff within the linux env.)
+- **Tomorrow:** Continue, and prepare my java 8 presentation.
