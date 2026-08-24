@@ -811,3 +811,9 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Did:** continued the tutorial, finished installing the stage tarball, no-multilib with the openRC depedency based init system.
 - **Learned:** how openRC differentiate with systemD. (and a few additional stuff within the linux env.)
 - **Tomorrow:** Continue, and prepare my java 8 presentation.
+
+### 2026-08-24 (Mon)
+- **Did:** continud the gentoo install, configured the package manager configurations files. optimized the
+flags for the compilers and cpu handling the operations handling.
+- **Learned:** a lot of new stuff.
+- **Tomorrow:** submit the 8th java project for the coming presentation.
