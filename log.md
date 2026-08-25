@@ -813,7 +813,12 @@ watched a little bit at the docker compose documentation, for advanced usage. Da
 - **Tomorrow:** Continue, and prepare my java 8 presentation.
 
 ### 2026-08-24 (Mon)
-- **Did:** continud the gentoo install, configured the package manager configurations files. optimized the
+- **Did:** continued the gentoo install, configured the package manager configurations files. optimized the
 flags for the compilers and cpu handling the operations handling.
 - **Learned:** a lot of new stuff.
 - **Tomorrow:** submit the 8th java project for the coming presentation.
+
+### 2026-08-25 (Tue)
+- **Did:** continue the gentoo install, debugged a few things, installed emacs for ease of config on it.
+- **Learned:** how to emerge and check for dependencies, how perl scrips actually achieve retrieving data.
+- **Tomorrow:** continue the gentoo install, and prepare the java 8th project presentation.
