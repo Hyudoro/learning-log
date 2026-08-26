@@ -822,3 +822,8 @@ flags for the compilers and cpu handling the operations handling.
 - **Did:** continue the gentoo install, debugged a few things, installed emacs for ease of config on it.
 - **Learned:** how to emerge and check for dependencies, how perl scrips actually achieve retrieving data.
 - **Tomorrow:** continue the gentoo install, and prepare the java 8th project presentation.
+
+### 2026-08-26 (Thu)
+- **Did:** Finished the gentoo install, everything is successful, now adding a few things, prepared for the presentation.
+- **Learned:** a few other stuff for linux and gentoo
+- **Tomorrow:** continue learning about gentoo and extanding the env on my sandboxsetup, and do the presentation
