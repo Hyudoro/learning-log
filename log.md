@@ -827,3 +827,8 @@ flags for the compilers and cpu handling the operations handling.
 - **Did:** Finished the gentoo install, everything is successful, now adding a few things, prepared for the presentation.
 - **Learned:** a few other stuff for linux and gentoo
 - **Tomorrow:** continue learning about gentoo and extanding the env on my sandboxsetup, and do the presentation
+
+### 2026-08-27 (Thu)
+- **Did:** succeeded my presentation.
+- **Learned:**
+- **Tomorrow:**continue setting up my gentoo env. (I will copy most of it on my main computer.)
