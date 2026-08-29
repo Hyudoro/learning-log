@@ -837,3 +837,8 @@ flags for the compilers and cpu handling the operations handling.
 - **Did:** installed the browser by compiling it using special use flags.
 - **Learned:** compiling a browser is really REALLY long.
 - **Tomorrow:** continue my gentoo install and debug a bit my emacs environment.
+
+### 2026-08-29 (Sat)
+- **Did:** Continue my gentoo install, installed and tuned some packages.
+- **Learned:** the old sandbox pc actually works really well under linux.
+- **Tomorrow:** continue my gentoll install, and work on my emacs config.
