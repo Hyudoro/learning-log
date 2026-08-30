@@ -842,3 +842,8 @@ flags for the compilers and cpu handling the operations handling.
 - **Did:** Continue my gentoo install, installed and tuned some packages.
 - **Learned:** the old sandbox pc actually works really well under linux.
 - **Tomorrow:** continue my gentoll install, and work on my emacs config.
+
+### 2026-08-30 (Sun)
+- **Did:** succeeded to make the screenshot system work and wallpaper too on gentoo. This was not easy.
+- **Learned:** a lot of stuff how gtk and utils render images, and specific formats.
+- **Tomorrow:** continue my gentoo config, and emacs.
