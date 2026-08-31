@@ -847,3 +847,8 @@ flags for the compilers and cpu handling the operations handling.
 - **Did:** succeeded to make the screenshot system work and wallpaper too on gentoo. This was not easy.
 - **Learned:** a lot of stuff how gtk and utils render images, and specific formats.
 - **Tomorrow:** continue my gentoo config, and emacs.
+
+### 2026-08-31 (Mon)
+- **Did:** configuring my wayland compositor, and trying to make the audio work.
+- **Learned:** there is an actualy complex pipeline between a sound server and a client, proxied by sound libraries.
+- **Tomorrow:** continue and try to make it work.
