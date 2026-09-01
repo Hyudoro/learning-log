@@ -852,3 +852,8 @@ flags for the compilers and cpu handling the operations handling.
 - **Did:** configuring my wayland compositor, and trying to make the audio work.
 - **Learned:** there is an actualy complex pipeline between a sound server and a client, proxied by sound libraries.
 - **Tomorrow:** continue and try to make it work.
+
+### 2026-09-01 (Tue)
+- **Did:** succeded to make the sound to work well, and delve into fonts, and how they work.
+- **Learned:** how unicode, and fontconfig work together for a font file and its processing.
+- **Tomorrow:** continue my gentoo config, and emacs.
