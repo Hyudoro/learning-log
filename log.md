@@ -857,3 +857,8 @@ flags for the compilers and cpu handling the operations handling.
 - **Did:** succeded to make the sound to work well, and delve into fonts, and how they work.
 - **Learned:** how unicode, and fontconfig work together for a font file and its processing.
 - **Tomorrow:** continue my gentoo config, and emacs.
+
+### 2026-09-02 (Wed)
+- **Did:** finished my terminal config
+- **Learned:** a lot of stuff with toml and regex.
+- **Tomorrow:** continue my gentoo config, and emacs
