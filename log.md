@@ -862,3 +862,8 @@ flags for the compilers and cpu handling the operations handling.
 - **Did:** finished my terminal config
 - **Learned:** a lot of stuff with toml and regex.
 - **Tomorrow:** continue my gentoo config, and emacs
+
+### 2026-09-03 (Thu)
+- **Did:** actually finished my terminal config, started to install a proper Display manager, then I will be set to prepare my full switch on my production machine.
+- **Learned:** a few stuff about the renderer open gl is involves with, how dubs services are involved in setting up env variables for api and grapihcals. protocols.
+- **Tomorrow:** continue my gentoo config.
