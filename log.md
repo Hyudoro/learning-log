@@ -867,3 +867,8 @@ flags for the compilers and cpu handling the operations handling.
 - **Did:** actually finished my terminal config, started to install a proper Display manager, then I will be set to prepare my full switch on my production machine.
 - **Learned:** a few stuff about the renderer open gl is involves with, how dubs services are involved in setting up env variables for api and grapihcals. protocols.
 - **Tomorrow:** continue my gentoo config.
+
+### 2026-09-04 (Fri)
+- **Did:** "finished" to configure the display manager. (it works)
+- **Learned:** a bunch of stuff dbus related.
+- **Tomorrow:** I will try to setup a bit of zram tomorrow for the weak computer and experiment a bit with it.
