@@ -872,3 +872,8 @@ flags for the compilers and cpu handling the operations handling.
 - **Did:** "finished" to configure the display manager. (it works)
 - **Learned:** a bunch of stuff dbus related.
 - **Tomorrow:** I will try to setup a bit of zram tomorrow for the weak computer and experiment a bit with it.
+
+### 2026-09-05 (Sat)
+- **Did:** starting my actual gentoo migration. my computer cannot handle windows 11 anymore.
+- **Learned:** how to debug and forensic a partition. (whone usb was lost in the process.)
+- **Tomorrow:** continue my migration.
