@@ -877,3 +877,8 @@ flags for the compilers and cpu handling the operations handling.
 - **Did:** starting my actual gentoo migration. my computer cannot handle windows 11 anymore.
 - **Learned:** how to debug and forensic a partition. (whone usb was lost in the process.)
 - **Tomorrow:** continue my migration.
+
+### 2026-09-06 (Sun)
+- **Did:** Started my gentoo migration. Everything is going fine for now..
+- **Learned:** fully encryt both my disks.
+- **Tomorrow:** continue my migration.
