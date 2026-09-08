@@ -882,3 +882,14 @@ flags for the compilers and cpu handling the operations handling.
 - **Did:** Started my gentoo migration. Everything is going fine for now..
 - **Learned:** fully encryt both my disks.
 - **Tomorrow:** continue my migration.
+
+### 2026-09-07 (Mon)
+- **Did:** Fixing issues and manual patches in gentoo lived for my hardware
+- **Learned:** The Pascal support used in my macrochip is almost cooked.
+- **Tomorrow:** Try having a running system.
+
+### 2026-09-08 (Tue)
+- **Did:** reached a gentoo stable live environment 
+- **Learned:** using ugdr, the ufi-stub, fully encrypt the harddrive through luks and update the header files and a lot of stuff fstab 
+- **Tomorrow:** reaching a dev working dev environment as fast as possible 
+ 
