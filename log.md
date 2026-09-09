@@ -891,5 +891,9 @@ flags for the compilers and cpu handling the operations handling.
 ### 2026-09-08 (Tue)
 - **Did:** reached a gentoo stable live environment 
 - **Learned:** using ugdr, the ufi-stub, fully encrypt the harddrive through luks and update the header files and a lot of stuff fstab 
-- **Tomorrow:** reaching a dev working dev environment as fast as possible 
+- **Tomorrow:** reaching a dev working dev environment as fast as possible
+
+### 2026-09-09 (Wed) 
+- **Did:** setted up my terminal and it's config, compiled emacs from source with custom flags for performances and dev tooling. updated the initramfs firmware and the bootloader firmware. and a working audio system. Started compiling the icecat browser...
+-  **Tomorrow** having a working browser and a screenshare system working and a screen-shot system working anh migrating my old configs.. 
  
