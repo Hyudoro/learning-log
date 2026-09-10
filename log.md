@@ -895,5 +895,10 @@ flags for the compilers and cpu handling the operations handling.
 
 ### 2026-09-09 (Wed) 
 - **Did:** setted up my terminal and it's config, compiled emacs from source with custom flags for performances and dev tooling. updated the initramfs firmware and the bootloader firmware. and a working audio system. Started compiling the icecat browser...
--  **Tomorrow** having a working browser and a screenshare system working and a screen-shot system working anh migrating my old configs.. 
- 
+- **Learned:** optimizations for emacs. how alacritty regex engine works, how to properly used the btrfs snapshot feature.
+-  **Tomorrow** having a working browser and a screenshare system working and a screen-shot system working and migrating my old configs.. 
+### 2026-10-09 (Thu)
+- **Did:** Finished to configure the browser so it's adapted to my dev enviornment. (it's firefox based anyway), a working audio/screenshare/screenshot stack, managed with pwvucontrol, fixed a lot of things, so everything is working cleanly and properly without weird suprises.
+- **Learned:** How the sound pipeline works, from the kernel registers to the sound processing interface (pipewire), the communication protocol used, and the sofware used to mange the sound. (It's still a bit fuzzy in my mind since, the system is actually rather complex). and a few other stuff (I already knew since I already did this stack (not exactly but that's beside the point)).
+- **Tomorrow** making sure everything is working properly, then finishing my development environment, and starting my config migration. Then I will be set.
+
