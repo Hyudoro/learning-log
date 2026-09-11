@@ -902,3 +902,6 @@ flags for the compilers and cpu handling the operations handling.
 - **Learned:** How the sound pipeline works, from the kernel registers to the sound processing interface (pipewire), the communication protocol used, and the sofware used to mange the sound. (It's still a bit fuzzy in my mind since, the system is actually rather complex). and a few other stuff (I already knew since I already did this stack (not exactly but that's beside the point)).
 - **Tomorrow** making sure everything is working properly, then finishing my development environment, and starting my config migration. Then I will be set.
 
+- **Did:** my development environment is working properly, added fonts, adapted my emacs config for its graphical intesface, the different treesitter, installed my agentic workflow.
+- **Learned:** how is managed java and other languages by gentoo, the easy version switch system with eselect for the appropriated openjdk.
+- **Tomorrow:** Customize my waybar, make sure everything is working as intended, and the secure aspect is working as well.
