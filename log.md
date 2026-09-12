@@ -906,3 +906,8 @@ flags for the compilers and cpu handling the operations handling.
 - **Did:** my development environment is working properly, added fonts, adapted my emacs config for its graphical intesface, the different treesitter, installed my agentic workflow.
 - **Learned:** how is managed java and other languages by gentoo, the easy version switch system with eselect for the appropriated openjdk.
 - **Tomorrow:** Customize my waybar, make sure everything is working as intended, and the secure aspect is working as well.
+
+### 2026-12-09 (Sat)
+- **Did:** created a script for safe system and packages updates a la nixOs with snapshots thanks to btrfs, fixed a few bugs in my emacs config. imported the waybar to my sway config (still need to link the packages backends to the ui). added the codex CLI for my agentic dev workflow.
+- **Learned:** A bit of bash, and to use a scripts then link it to a command, a few stuff regarding the waybar and other niceties regarding ccache and sccache.
+- **Tomorrow:** finish to configure my waybar, start setting up my display manager along a lock-screen. (probably with weston for the backend and sddm for the UI).
