@@ -889,14 +889,14 @@ flags for the compilers and cpu handling the operations handling.
 - **Tomorrow:** Try having a running system.
 
 ### 2026-09-08 (Tue)
-- **Did:** reached a gentoo stable live environment 
-- **Learned:** using ugdr, the ufi-stub, fully encrypt the harddrive through luks and update the header files and a lot of stuff fstab 
+- **Did:** reached a gentoo stable live environment
+- **Learned:** using ugdr, the ufi-stub, fully encrypt the harddrive through luks and update the header files and a lot of stuff fstab
 - **Tomorrow:** reaching a dev working dev environment as fast as possible
 
-### 2026-09-09 (Wed) 
+### 2026-09-09 (Wed)
 - **Did:** setted up my terminal and it's config, compiled emacs from source with custom flags for performances and dev tooling. updated the initramfs firmware and the bootloader firmware. and a working audio system. Started compiling the icecat browser...
 - **Learned:** optimizations for emacs. how alacritty regex engine works, how to properly used the btrfs snapshot feature.
--  **Tomorrow** having a working browser and a screenshare system working and a screen-shot system working and migrating my old configs.. 
+-  **Tomorrow** having a working browser and a screenshare system working and a screen-shot system working and migrating my old configs..
 ### 2026-10-09 (Thu)
 - **Did:** Finished to configure the browser so it's adapted to my dev enviornment. (it's firefox based anyway), a working audio/screenshare/screenshot stack, managed with pwvucontrol, fixed a lot of things, so everything is working cleanly and properly without weird suprises.
 - **Learned:** How the sound pipeline works, from the kernel registers to the sound processing interface (pipewire), the communication protocol used, and the sofware used to mange the sound. (It's still a bit fuzzy in my mind since, the system is actually rather complex). and a few other stuff (I already knew since I already did this stack (not exactly but that's beside the point)).
@@ -911,3 +911,8 @@ flags for the compilers and cpu handling the operations handling.
 - **Did:** created a script for safe system and packages updates a la nixOs with snapshots thanks to btrfs, fixed a few bugs in my emacs config. imported the waybar to my sway config (still need to link the packages backends to the ui). added the codex CLI for my agentic dev workflow.
 - **Learned:** A bit of bash, and to use a scripts then link it to a command, a few stuff regarding the waybar and other niceties regarding ccache and sccache.
 - **Tomorrow:** finish to configure my waybar, start setting up my display manager along a lock-screen. (probably with weston for the backend and sddm for the UI).
+
+### 2026-09-13 (Sun)
+- **Did:** finished (not the backend yet), finished installing and setting up my display manager (sddm + weston) with the lockscreen.
+- **Learned:** the pipeline from the login prompt interface (given by the display manager sddm) and the sub-functions called to weston which is the backend.
+- **Tomorrow:** try to make the waybar backend working (it's potentially really long but I will try my best.)
