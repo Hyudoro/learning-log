@@ -916,3 +916,8 @@ flags for the compilers and cpu handling the operations handling.
 - **Did:** finished (not the backend yet), finished installing and setting up my display manager (sddm + weston) with the lockscreen.
 - **Learned:** the pipeline from the login prompt interface (given by the display manager sddm) and the sub-functions called to weston which is the backend.
 - **Tomorrow:** try to make the waybar backend working (it's potentially really long but I will try my best.)
+
+### 2026-09-14 (Mon)
+- **Did:** still making the waybar fully working, now managging volume, microphone, speakers, powering on and off the computer, the brightness of the scree, and the wifi (not finished.) created a script to safely back up my system with snapshot and the gentoo snapper package. started thiking about switching my personal interactive shell, going to nushell.
+- **Learned:** A few things about the waybar,  I had to find a bug fix related to the screen refresh rate of the bar. a part of the tooling for managing my system.
+- **Tomorrow:** continue learning about the tooling for managing my system. and start my java 9th and last project for the current studies.
