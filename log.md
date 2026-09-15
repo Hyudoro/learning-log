@@ -921,3 +921,8 @@ flags for the compilers and cpu handling the operations handling.
 - **Did:** still making the waybar fully working, now managging volume, microphone, speakers, powering on and off the computer, the brightness of the scree, and the wifi (not finished.) created a script to safely back up my system with snapshot and the gentoo snapper package. started thiking about switching my personal interactive shell, going to nushell.
 - **Learned:** A few things about the waybar,  I had to find a bug fix related to the screen refresh rate of the bar. a part of the tooling for managing my system.
 - **Tomorrow:** continue learning about the tooling for managing my system. and start my java 9th and last project for the current studies.
+
+### 2026-09-15 (Tue)
+- **Did:** planned the java 9th project, created the stack and the design choices (haven't fully finished)
+- **Learned:** how does the gateway works and communicate with the backends through ports.
+- **Tomorrow:** continue planning
