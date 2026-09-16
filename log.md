@@ -926,3 +926,8 @@ flags for the compilers and cpu handling the operations handling.
 - **Did:** planned the java 9th project, created the stack and the design choices (haven't fully finished)
 - **Learned:** how does the gateway works and communicate with the backends through ports.
 - **Tomorrow:** continue planning
+
+### 2026-09-16 (Wed)
+- **Did:** fixed a few issues while configuring the java 9 project plugins, and continued the architecture around the project 9.
+- **Learned:** how does the gateway actually work, how a PIT can make easier the liability of tests, and archunit allowing to ensure there is no forbiddent communications between the modules.
+- **Tomorrow:** continue the porject 9
