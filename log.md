@@ -931,3 +931,8 @@ flags for the compilers and cpu handling the operations handling.
 - **Did:** fixed a few issues while configuring the java 9 project plugins, and continued the architecture around the project 9.
 - **Learned:** how does the gateway actually work, how a PIT can make easier the liability of tests, and archunit allowing to ensure there is no forbiddent communications between the modules.
 - **Tomorrow:** continue the porject 9
+
+### 2026-09-17 (Thu)
+- **Did:** continue project 9. still finishing sprint 1
+- **Learned:** a few things on the new java 25 lts and new java specificities.
+- **Tomorrow:** continue the project 9
