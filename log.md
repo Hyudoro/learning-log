@@ -936,3 +936,8 @@ flags for the compilers and cpu handling the operations handling.
 - **Did:** continue project 9. still finishing sprint 1
 - **Learned:** a few things on the new java 25 lts and new java specificities.
 - **Tomorrow:** continue the project 9
+
+### 2026-09-18 (Fri)
+- **Did:** continued the project 9, finished the sprint 1, continuing fixing a few bugs with the gateway and the ports, creatintg a script to unify compositors configs, under one same org file where I can hot swap reassign values.
+- **Learned:** How to use a profile.yml, to separate the dev environment from the production environment.
+- **Tomorrow:** this week end I will have a bit of fun, by utilizing a new interactive shell called the nushell, and my continuing configuring hyperland, niri, and sway composittors since I want them 3.
