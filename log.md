@@ -941,3 +941,8 @@ flags for the compilers and cpu handling the operations handling.
 - **Did:** continued the project 9, finished the sprint 1, continuing fixing a few bugs with the gateway and the ports, creatintg a script to unify compositors configs, under one same org file where I can hot swap reassign values.
 - **Learned:** How to use a profile.yml, to separate the dev environment from the production environment.
 - **Tomorrow:** this week end I will have a bit of fun, by utilizing a new interactive shell called the nushell, and my continuing configuring hyperland, niri, and sway composittors since I want them 3.
+
+### 2026-09-19 (Sat)
+- **Did:** day off, exported my keyboard sofware in c, and compiling it with a cross-compiler for arm, and customizing my keyboard.
+- **Learned:** A few stuff, on how micro librarys such as chibiOS works for embedded chips.
+- **Tomorrow:** try to finish configuring the qmk layout, and try to play a little bit with nushell. (hyperlantd for next week probably)
