@@ -946,3 +946,8 @@ flags for the compilers and cpu handling the operations handling.
 - **Did:** day off, exported my keyboard sofware in c, and compiling it with a cross-compiler for arm, and customizing my keyboard.
 - **Learned:** A few stuff, on how micro librarys such as chibiOS works for embedded chips.
 - **Tomorrow:** try to finish configuring the qmk layout, and try to play a little bit with nushell. (hyperlantd for next week probably)
+
+### 2026-09-20 (Sun)
+- **Did:** day off, configurintg the qmk layout.
+- **Learned:** not much.
+- **Tomorrow:** continue project 9.
