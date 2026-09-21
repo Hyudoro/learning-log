@@ -951,3 +951,8 @@ flags for the compilers and cpu handling the operations handling.
 - **Did:** day off, configurintg the qmk layout.
 - **Learned:** not much.
 - **Tomorrow:** continue project 9.
+
+### 2026-09-21 (Mon)
+- **Did:* continued the project 9 worked on the second sprint.
+- **Learned:** how does mongoDB works and how to store unstructured data.
+- **Tomorrow:** keep doing the project 9.
