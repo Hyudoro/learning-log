@@ -961,3 +961,9 @@ flags for the compilers and cpu handling the operations handling.
 - **Did:** Continued the project 9.
 - **Learned:** a few stuff on mongo.
 - **Tomorrow:** continue the project 9.
+
+### 2026-09-23 (Wed)
+- **Did:** Continued the project 9, a few other stuff such as reading about nushell and started using it trying to
+integrate it to my worflow.
+- **Learned:** working with mongoDB is harder than postgreSQL.
+- **Tomorrow:** continue working on the project 9.
