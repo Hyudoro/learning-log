@@ -967,3 +967,8 @@ flags for the compilers and cpu handling the operations handling.
 integrate it to my worflow.
 - **Learned:** working with mongoDB is harder than postgreSQL.
 - **Tomorrow:** continue working on the project 9.
+
+### 2026-09-24 (Thu)
+- **Did:** finished the sprint 2 of the project 9 a bunch of personnal stuff.
+- **Learned:** Using nushell in my workflow. Really useful for playing around with postgres.
+- **Tomorrow:** continue the project 9
