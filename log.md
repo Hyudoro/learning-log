@@ -972,3 +972,8 @@ integrate it to my worflow.
 - **Did:** finished the sprint 2 of the project 9 a bunch of personnal stuff.
 - **Learned:** Using nushell in my workflow. Really useful for playing around with postgres.
 - **Tomorrow:** continue the project 9
+
+### 2026-09-25 (friday)
+- **Did:** used nushell during my presestation. went very nice. continued the project 9 and fixed a few bugs.
+- **Learned:** a few nice browser bindings.
+- **Tomorrow:** have fun when programming, explore a few things about privacy.
