@@ -977,3 +977,8 @@ integrate it to my worflow.
 - **Did:** used nushell during my presestation. went very nice. continued the project 9 and fixed a few bugs.
 - **Learned:** a few nice browser bindings.
 - **Tomorrow:** have fun when programming, explore a few things about privacy.
+
+### 2026-09-26 (Sat)
+- **Did:** explored how and DNS works, and applied for more privacy (Quad9), going in pair with a vpn (Mullvad), and a custom javascript config file for my browser (icecat), choosing how to handle ads, fingerprinting etcetera. and use a ads blocker. Started reading seriously the documentation of QEMU, I plan to learn using lfs.
+- **Learned:** protecting my privacy, and the techniques used my third parties sites, and embedded actors to fingerprint someone.
+- **Tomorrow:** Startintg the sprint 3 for the java project 9 continue reading the QEMU documentation, reading the docs from nushell
