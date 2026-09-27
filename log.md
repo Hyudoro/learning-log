@@ -982,3 +982,8 @@ integrate it to my worflow.
 - **Did:** explored how and DNS works, and applied for more privacy (Quad9), going in pair with a vpn (Mullvad), and a custom javascript config file for my browser (icecat), choosing how to handle ads, fingerprinting etcetera. and use a ads blocker. Started reading seriously the documentation of QEMU, I plan to learn using lfs.
 - **Learned:** protecting my privacy, and the techniques used my third parties sites, and embedded actors to fingerprint someone.
 - **Tomorrow:** Startintg the sprint 3 for the java project 9 continue reading the QEMU documentation, reading the docs from nushell
+
+### 2026-09-27 (Sun)
+- **Did:** day-off, installed KeePass and started using it, read a little more QEMU documentation
+- **Learned:** Learned about a password manager to enhance security.
+- **Tomorrow:** Starting the sprint 3 for the java project 9 continue reading the QEMU documentation. reading the docs from nushell.
