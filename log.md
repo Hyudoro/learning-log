@@ -987,3 +987,8 @@ integrate it to my worflow.
 - **Did:** day-off, installed KeePass and started using it, read a little more QEMU documentation
 - **Learned:** Learned about a password manager to enhance security.
 - **Tomorrow:** Starting the sprint 3 for the java project 9 continue reading the QEMU documentation. reading the docs from nushell.
+
+### 2026-09-28 (Mon)
+- **Did:** continuing the sprint 3 of the 9th java project. continue reading the QEMU documentation. didn't have time for a bit more of nushell.
+- **Learned:** Optimizing the diagnostic engine of my project, how paravirtualization works along qemu (kvm).
+- **Tomorrow:** Continue the sprint 3 of the 9th java project. Continue reading the QEMU documentation.
