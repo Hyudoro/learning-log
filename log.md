@@ -992,3 +992,8 @@ integrate it to my worflow.
 - **Did:** continuing the sprint 3 of the 9th java project. continue reading the QEMU documentation. didn't have time for a bit more of nushell.
 - **Learned:** Optimizing the diagnostic engine of my project, how paravirtualization works along qemu (kvm).
 - **Tomorrow:** Continue the sprint 3 of the 9th java project. Continue reading the QEMU documentation.
+
+### 2026-09-29 (Tue)
+- **Did:** continued and debugged a bit inside the sprint 3. Installed QEMU, and Started a debian VM.
+- **Learned:** how to use qcow2 and flags to make a runnable image. How to ssh through a local port (2222) within the VM to operate on it.
+- **Tomorrow:** continue the 9th java project 3rd sprint, Before starting LFS, finish reading the basics knowledge prerequisites (FHS).
