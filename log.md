@@ -997,3 +997,8 @@ integrate it to my worflow.
 - **Did:** continued and debugged a bit inside the sprint 3. Installed QEMU, and Started a debian VM.
 - **Learned:** how to use qcow2 and flags to make a runnable image. How to ssh through a local port (2222) within the VM to operate on it.
 - **Tomorrow:** continue the 9th java project 3rd sprint, Before starting LFS, finish reading the basics knowledge prerequisites (FHS).
+
+### 2026-09-30 (Wed)
+- **Did:** Finished the 9th java project and docker images with a lot of bug fixes and docs changes. Continuing reading about (FHS).
+- **Learned:** how to use the java swaggers, a lot of things within the libraries I'm using for the project.
+- **Tomorrow:** the java project's CI. continuing reading (FHS) (again those are steps before LFS.)
