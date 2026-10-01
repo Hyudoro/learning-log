@@ -1002,3 +1002,8 @@ integrate it to my worflow.
 - **Did:** Finished the 9th java project and docker images with a lot of bug fixes and docs changes. Continuing reading about (FHS).
 - **Learned:** how to use the java swaggers, a lot of things within the libraries I'm using for the project.
 - **Tomorrow:** the java project's CI. continuing reading (FHS) (again those are steps before LFS.)
+
+### 2026-10-01 (Thu)
+- **Did:** did the java project's CI. not had enough time for the (FHS).
+- **Learned:** a few new stuff with sonarqube and creedengo java.
+- **Tomorrow:** continue a little bit the java project, and keep reading (FHS).
