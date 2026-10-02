@@ -1007,3 +1007,8 @@ integrate it to my worflow.
 - **Did:** did the java project's CI. not had enough time for the (FHS).
 - **Learned:** a few new stuff with sonarqube and creedengo java.
 - **Tomorrow:** continue a little bit the java project, and keep reading (FHS).
+
+### 2026-10-02 (Fri)
+- **Did:** finished the project, cleaning it and making sure everything works great. (read a little bit the FHS.)
+- **Learned:** Understanding what is the /bin for within a linux system.
+- **Tomorrow:** continue reading the FHS.
