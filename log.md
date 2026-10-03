@@ -1012,3 +1012,8 @@ integrate it to my worflow.
 - **Did:** finished the project, cleaning it and making sure everything works great. (read a little bit the FHS.)
 - **Learned:** Understanding what is the /bin for within a linux system.
 - **Tomorrow:** continue reading the FHS.
+
+### 2026-10-03 (Sat)
+- **Did:** continued and studying the FHS properly. did my first cron job. , Scripted a program fork anki backups.
+- **Learned:** how does cron works. with a daemon and a tab for editing them.
+- **Tomorrow:** continue studying the FHS have fun.
