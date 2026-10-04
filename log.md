@@ -1017,3 +1017,8 @@ integrate it to my worflow.
 - **Did:** continued and studying the FHS properly. did my first cron job. , Scripted a program fork anki backups.
 - **Learned:** how does cron works. with a daemon and a tab for editing them.
 - **Tomorrow:** continue studying the FHS have fun.
+
+### 2026-10-04 (Sun)
+- **Did:** day-off, continuing reading the FHS, the /usr.
+- **Learned:** A lot of stuff specific to the linux file system.
+- **Tomorrow:** finish the project 9 and the last little things to make sure everything is clean. Then prepare the presentation with the appropriate powerpoint.
