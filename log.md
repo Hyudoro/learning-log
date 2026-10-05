@@ -1022,3 +1022,8 @@ integrate it to my worflow.
 - **Did:** day-off, continuing reading the FHS, the /usr.
 - **Learned:** A lot of stuff specific to the linux file system.
 - **Tomorrow:** finish the project 9 and the last little things to make sure everything is clean. Then prepare the presentation with the appropriate powerpoint.
+
+### 2026-10-05 (Mon)
+- **Did:** Prepared the powerpoint, and finished the project 9.
+- **Learned:** not-much (using libre-office is actually pretty straightforward compared to )
+- **Tomorrow:** have fun, learning a bunch and preparing myself to start LFS.
