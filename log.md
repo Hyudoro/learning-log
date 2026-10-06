@@ -1027,3 +1027,8 @@ integrate it to my worflow.
 - **Did:** Prepared the powerpoint, and finished the project 9.
 - **Learned:** not-much (using libre-office is actually pretty straightforward compared to )
 - **Tomorrow:** have fun, learning a bunch and preparing myself to start LFS.
+
+### 2026-10-06 (Tue)
+- **Did:** Finished the FHS, and started reading the LFS book.
+- **Learned:** basically the whole loop from a turned off computer to a running linux instance.
+- **Tomorrow:** continue doing the LFS. maybe fix a few things in my emacs config.
