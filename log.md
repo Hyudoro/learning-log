@@ -1032,3 +1032,8 @@ integrate it to my worflow.
 - **Did:** Finished the FHS, and started reading the LFS book.
 - **Learned:** basically the whole loop from a turned off computer to a running linux instance.
 - **Tomorrow:** continue doing the LFS. maybe fix a few things in my emacs config.
+
+### 2026-10-07 (Wed)
+- **Did:** day-off, continuing reading the LFS, studied new concepts such as cross-compilation.
+- **Learned:** How we will achieve creating the whole LFS toolchain through different layer of cross-compilation
+- **Tomorrow:** continue doing the LFS.
