@@ -1037,3 +1037,8 @@ integrate it to my worflow.
 - **Did:** day-off, continuing reading the LFS, studied new concepts such as cross-compilation.
 - **Learned:** How we will achieve creating the whole LFS toolchain through different layer of cross-compilation
 - **Tomorrow:** continue doing the LFS.
+
+### 2026-10-08 (Thu)
+- **Did:** Continued reading about the toolchain around cross-compilation (this is not easy)
+- **Learned:** subroutines used by the internal libgcc library within cc1 the compiler of the gcc gnu compilation collection. and how to pass through the chicken and egg problem, when cross-compiling it for an host.
+- **Tomorrow:** continue.
