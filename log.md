@@ -1042,3 +1042,8 @@ integrate it to my worflow.
 - **Did:** Continued reading about the toolchain around cross-compilation (this is not easy)
 - **Learned:** subroutines used by the internal libgcc library within cc1 the compiler of the gcc gnu compilation collection. and how to pass through the chicken and egg problem, when cross-compiling it for an host.
 - **Tomorrow:** continue.
+
+### 2026-10-09 (Fri)
+- **Did:** Started installing the first packages necessary on the host machine.
+- **Learned:** What is actually the autotools, the toolchain, and libtools. and why we need a degraded compiler for compiling the glibc.
+- **Tomorrow:** continue
