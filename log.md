@@ -1047,3 +1047,8 @@ integrate it to my worflow.
 - **Did:** Started installing the first packages necessary on the host machine.
 - **Learned:** What is actually the autotools, the toolchain, and libtools. and why we need a degraded compiler for compiling the glibc.
 - **Tomorrow:** continue
+
+### 2026-10-10 (Sat)
+- **Did:** Continued installing the packages necessary for building lfs.
+- **Learned:** not much honestly kind of a rest day today, going with the flow with my music.
+- **Tomorrow:** continue
