@@ -1052,3 +1052,8 @@ integrate it to my worflow.
 - **Did:** Continued installing the packages necessary for building lfs.
 - **Learned:** not much honestly kind of a rest day today, going with the flow with my music.
 - **Tomorrow:** continue
+
+### 2026-10-11 (Sun)
+- **Did:** Day off, continued the LFS install (chapter 3).
+- **Learned:** Already knew most of the beginning.
+- **Tomorrow:** Continue.
