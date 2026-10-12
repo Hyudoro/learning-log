@@ -1057,3 +1057,8 @@ integrate it to my worflow.
 - **Did:** Day off, continued the LFS install (chapter 3).
 - **Learned:** Already knew most of the beginning.
 - **Tomorrow:** Continue.
+
+### 2026-10-12 (Mon)
+- **Did:** continue chapter 3 (struggle with available repos for the packages and it's patches.)
+- **Learned:** use universities network to download internal files.
+- **Tomorrow:** continue chapter 3 and start chapter 4
