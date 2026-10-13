@@ -1062,3 +1062,8 @@ integrate it to my worflow.
 - **Did:** continue chapter 3 (struggle with available repos for the packages and it's patches.)
 - **Learned:** use universities network to download internal files.
 - **Tomorrow:** continue chapter 3 and start chapter 4
+
+### 2026-10-13 (Tue)
+- **Did:** a big part of the chapter 4 of the lfs's book.
+- **Learned:** how to use SBUS, understand the difference between .bash_profile, .profile, .bashrc and the heritage system between shells.
+- **Tomorrow:** continue chapter 4.
