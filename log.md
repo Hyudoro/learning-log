@@ -1067,3 +1067,8 @@ integrate it to my worflow.
 - **Did:** a big part of the chapter 4 of the lfs's book.
 - **Learned:** how to use SBUS, understand the difference between .bash_profile, .profile, .bashrc and the heritage system between shells.
 - **Tomorrow:** continue chapter 4.
+
+### 2026-10-14 (Wed)
+- **Did:** going through chapter 5
+- **Learned:** how to apply a patch, how to use relative sysmlinks. how does the glibc is involved with the compiler.
+- **Tomorrow:** work on the presentation of my 9'th project.
