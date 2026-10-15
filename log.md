@@ -1072,3 +1072,8 @@ integrate it to my worflow.
 - **Did:** going through chapter 5
 - **Learned:** how to apply a patch, how to use relative sysmlinks. how does the glibc is involved with the compiler.
 - **Tomorrow:** work on the presentation of my 9'th project.
+
+### 2026-10-15 (Thu)
+- **Did:** went until chapter 8.
+- **Learned:** learned how to make a backup system with the tar utility. (and other lfs/linux systems)
+- **Tomorrow:** continue until the end of LFS.
