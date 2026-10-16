@@ -1077,3 +1077,8 @@ integrate it to my worflow.
 - **Did:** went until chapter 8.
 - **Learned:** learned how to make a backup system with the tar utility. (and other lfs/linux systems)
 - **Tomorrow:** continue until the end of LFS.
+
+### 2026-10-16 (Fri)
+- **Did:** doing the chapter 8 of the LFS book. (I had other programming things to do)
+- **Learned:** how to test a program with make
+- **Tomorrow:** continue the LFS book
