@@ -1082,3 +1082,8 @@ integrate it to my worflow.
 - **Did:** doing the chapter 8 of the LFS book. (I had other programming things to do)
 - **Learned:** how to test a program with make
 - **Tomorrow:** continue the LFS book
+
+### 2026-10-17 (Sat)
+- **Did:** continue through the chapter 8 (It's really long)
+- **Learned:** how some libraries work together. zlib, libtool, meson, mpfr, gmp...
+- **Tomorrow:** continue
