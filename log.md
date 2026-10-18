@@ -1087,3 +1087,8 @@ integrate it to my worflow.
 - **Did:** continue through the chapter 8 (It's really long)
 - **Learned:** how some libraries work together. zlib, libtool, meson, mpfr, gmp...
 - **Tomorrow:** continue
+
+### 2026-10-18 (Sun)
+- **Did:** fininshed the chapter 8 (kind of a day off) and started the network part. (chapter 9.1-3)
+- **Learned:** how to use systemd to automate the process of creating a dns resolved systemd-resolved, systemd-networkd.
+- **Tomorrow:** continue
