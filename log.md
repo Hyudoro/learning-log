@@ -1092,3 +1092,9 @@ integrate it to my worflow.
 - **Did:** fininshed the chapter 8 (kind of a day off) and started the network part. (chapter 9.1-3)
 - **Learned:** how to use systemd to automate the process of creating a dns resolved systemd-resolved, systemd-networkd.
 - **Tomorrow:** continue
+
+### 2026-10-19 (Mon)
+- **Did:** went through 9.3 - 9.5 of the lfs's book.
+- **Learned:** learning about how to handle devices and their drivers embedded with the kernel or as modules.
+and how to fix bugs, or unexpected behaviors, or fight the randomness naming at each boot with persistent symlinks as rules.
+- **Tomorrow:** continue the lfs book and start preparing my last project presentation.
