@@ -1098,3 +1098,8 @@ integrate it to my worflow.
 - **Learned:** learning about how to handle devices and their drivers embedded with the kernel or as modules.
 and how to fix bugs, or unexpected behaviors, or fight the randomness naming at each boot with persistent symlinks as rules.
 - **Tomorrow:** continue the lfs book and start preparing my last project presentation.
+
+### 2026-10-20 (Tue)
+- **Did:** Finished LFS, and started planning a custom distro for dev purposes, a daily driver.
+- **Learned:** A lot of linux related things, the network aspect with the dns, dhcp vs static init system etcetera.
+- **Tomorrow:** preparing for the project official presentation of java's 9 project.
