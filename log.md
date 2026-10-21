@@ -1103,3 +1103,8 @@ and how to fix bugs, or unexpected behaviors, or fight the randomness naming at 
 - **Did:** Finished LFS, and started planning a custom distro for dev purposes, a daily driver.
 - **Learned:** A lot of linux related things, the network aspect with the dns, dhcp vs static init system etcetera.
 - **Tomorrow:** preparing for the project official presentation of java's 9 project.
+
+### 2026-10-21 (Wed)
+- **Did:** Planned even more the custom distro, preparing for the last project official presentation.
+- **Learned:** mix declarative system with conterarized system.
+- **Tomorrow:** continue the official presentation prep.
