@@ -1108,3 +1108,8 @@ and how to fix bugs, or unexpected behaviors, or fight the randomness naming at 
 - **Did:** Planned even more the custom distro, preparing for the last project official presentation.
 - **Learned:** mix declarative system with conterarized system.
 - **Tomorrow:** continue the official presentation prep.
+
+### 2026-10-22 (Thu)
+- **Did:** preparing myself for the official presentation.
+- **Learned:** `
+- **Tomorrow:** continue until the official presentation
