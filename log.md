@@ -1113,3 +1113,8 @@ and how to fix bugs, or unexpected behaviors, or fight the randomness naming at 
 - **Did:** preparing myself for the official presentation.
 - **Learned:** `
 - **Tomorrow:** continue until the official presentation
+
+### 2026-10-23 (Fri)
+- **Did:** Succeeded the official presentation.
+- **Learned:** The hexagonal architecture, designed for parallel and agentic programming.
+- **Tomorrow:** Continue my distro's project.
